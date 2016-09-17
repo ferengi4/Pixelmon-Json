@@ -1,0 +1,233 @@
+{
+  "npcs": [
+    {
+      "name": "flyinggym2intro",
+      "type": "chat",
+      "x": 13,
+      "y": 3,
+      "z": 20
+    },
+    {
+      "name": "flyinggym2base",
+      "type": "trainer",
+      "tier": 3,
+      "rotation": 0,
+      "x": 19,
+      "y": 13,
+      "z": 8
+    },
+    {
+      "name": "flyinggym2base",
+      "type": "trainer",
+      "tier": 3, 
+      "rotation": 0,
+      "x": 11,
+      "y": 18,
+      "z": 16
+    },
+    {
+      "name": "flyinggym2base",
+      "type": "trainer",
+      "tier": 2, 
+      "rotation": 0,
+      "x": 4,
+      "y": 22,
+      "z": 2
+    },
+    {
+      "name": "flyinggym2leader",
+      "type": "trainer",
+      "tier": 0,
+      "rotation": 180,
+      "x": 15,
+      "y": 23,
+      "z": 13,
+      "drops": [ "pixelmon:item.SharpBeak" ]
+    }
+  ],
+  "pokemon": [
+    {
+      "name": "Togekiss",
+      "minLevel": 25,
+      "sets": [
+        {
+          "move1": [ "Nasty Plot" ],
+          "move2": [ "Air Slash" ],
+          "move3": [ "Heal Bell", "Thunder Wave" ],
+          "move4": [ "Roost" ],
+          "ability": [ "Serene Grace" ],
+          "heldItem": [ "pixelmon:item.Leftovers" ],
+          "nature": ["Timid"],
+          "evHP": 252,
+          "evDef": 80,
+          "evSpeed": 176
+        }
+      ]
+    },
+    {
+      "name": "Starly",
+      "maxLevel": 15,
+      "sets": [
+        {
+          "move1": [ "Quick Attack" ],
+          "move2": [ "Wing Attack" ],
+          "move3": [ "Double Team" ],
+          "move4": [ "Whirlwind" ],
+          "ability": [ "Keen Eye" ],
+          "heldItem": [ "pixelmon:item.SharpBeak" ],
+          "nature": ["Jolly", "Adamant"],
+          "evAtk": 252,
+          "evSpeed": 252
+        }
+      ]
+    },
+    {
+      "name": "Staravia",
+      "maxLevel": 33,
+      "sets": [
+        {
+          "move1": [ "Quick Attack" ],
+          "move2": [ "Wing Attack" ],
+          "move3": [ "Double Team" ],
+          "move4": [ "Brave Bird" ],
+          "ability": [ "Keen Eye" ],
+          "heldItem": [ "pixelmon:item.SharpBeak" ],
+          "nature": ["Jolly", "Adamant"],
+          "evAtk": 252,
+          "evSpeed": 252
+        }
+      ]
+    },
+    {
+      "name": "Staraptor",
+      "minLevel": 34,
+      "sets": [
+        {
+          "move1": [ "Close Combat" ],
+          "move2": [ "Brave Bird" ],
+          "move3": [ "Agility", "Double Team" ],
+          "move4": [ "Take Down" ],
+          "ability": [ "Reckless" ],
+          "heldItem": [ "pixelmon:item.SharpBeak" ],
+          "nature": ["Jolly", "Adamant"],
+          "evAtk": 252,
+          "evSpeed": 252
+        }
+      ]
+    },
+    {
+      "name": "Pelliper",
+      "minLevel": 25,
+      "sets": [
+        {
+          "move1": [ "Roost" ],
+          "move2": [ "Scald" ],
+          "move3": [ "Defog" ],
+          "move4": [ "U-turn", "Hurricane" ],
+          "ability": [ "Keen Eye" ],
+          "heldItem": [ "pixelmon:item.Leftovers" ],
+          "nature": ["Bold"],
+          "evHP": 248,
+          "evDef": 252,
+          "evSpDef": 8
+        }
+      ]
+    },
+    {
+      "name": "Tropius",
+      "minLevel": 30,
+      "sets": [
+        {
+          "move1": [ "Leech Seed" ],
+          "move2": [ "Substitute" ],
+          "move3": [ "Air Slash" ],
+          "move4": [ "Protect", "Toxic" ],
+          "ability": [ "Harvest" ],
+          "heldItem": [ "pixelmon:item.SitrusBerry" ],
+          "nature": ["Bold"],
+          "evHP": 248,
+          "evDef": 144,
+          "evSpeed": 116
+        }
+      ]
+    },
+    {
+      "name": "Gligar",
+      "maxLevel": 16,
+      "sets": [
+        {
+          "move1": [ "Roost" ],
+          "move2": [ "Earthquake" ],
+          "move3": [ "U-turn", "Toxic" ],
+          "move4": [ "Taunt", "Toxic", "Stealth Rock" ],
+          "ability": [ "Immunity" ],
+          "heldItem": [ "pixelmon:item.Eviolite" ],
+          "nature": ["Impish"],
+          "evHP": 252,
+          "evDef": 252,
+          "evSpeed": 4
+        }
+      ]
+    },
+    {
+      "name": "Gliscor",
+      "minLevel": 24,
+      "sets": [
+        {
+          "move1": [ "Substitute" ],
+          "move2": [ "Toxic" ],
+          "move3": [ "Protect", "Roost", "Taunt" ],
+          "move4": [ "Earthquake" ],
+          "ability": [ "Poison Heal" ],
+          "heldItem": [ "pixelmon:item.ToxicOrb" ],
+          "nature": ["Impish"],
+          "evHP": 244,
+          "evDef": 40,
+          "evSpeed": 224
+        },
+         {
+          "move1": [ "Acrobatics" ],
+          "move2": [ "Earthquake" ],
+          "move3": [ "Swords Dance" ],
+          "move4": [ "Substitute", "Agility" ],
+          "ability": [ "Hyper Cutter" ],
+          "heldItem": [ "pixelmon:item.Flying_Gem" ],
+          "nature": ["Adamant"],
+          "evAtk": 252,
+          "evDef": 4,
+          "evSpeed": 252
+        }
+      ]
+    },
+    {
+      "name": "Aerodactyl",
+      "minLevel": 20,
+      "sets": [
+        {
+          "move1": [ "Stone Edge" ],
+          "move2": [ "Earthquake" ],
+          "move3": [ "Fire Blast", "Double-Edge" ],
+          "move4": [ "Roost" ],
+          "ability": [ "Pressure", "Rock Head" ],
+          "heldItem": [ "pixelmon:item.Life_Orb" ],
+          "nature": ["Haste", "Jolly"],
+          "evAtk": 220,
+          "evSpAtk": 36,
+          "evSpeed": 252
+        },
+        {
+          "move1": [ "Stone Edge" ],
+          "move2": [ "Earthquake" ],
+          "move3": [ "Aqua Tail" ],
+          "move4": [ "Double-Edge" ],
+          "ability": [ "Rock Head" ],
+          "heldItem": [ "pixelmon:item.Choice_Band" ],
+          "nature": ["Jolly"],
+          "evAtk": 252,
+          "evDef": 4,
+          "evSpeed": 252
+        }
+      ]
+    }
+  ]
+}

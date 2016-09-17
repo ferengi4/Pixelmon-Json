@@ -1,0 +1,31 @@
+{
+  "npctype": "chat",
+  "skins": [
+    {
+      "filename": "hiker.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Greg"
+    }
+  ],
+  "chat": [
+    {
+      "lines": [
+        {
+          "text": "Yo! Champ in making! Welcome to Helium Heights!"
+        },
+        {
+          "text": "If you're looking for the flying gym you've found it- literally! This gym is flying!"
+        },
+        {
+          "text": "The leader is a legendary fighter pilot! The tales say he used to do Pokemon battles on the wings of his plane- mid flight!"
+        },
+        {
+          "text": "Don't let the hot air balloons fool you- those are for his grandkids! He was a fierce pilot and now he is a fierce opponent"
+        }
+      ]
+    }
+  ]
+}

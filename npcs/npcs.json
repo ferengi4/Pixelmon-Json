@@ -246,11 +246,7 @@
         "name": "Blacksmith",
         "rarity": 20,
         "textures": [ "blacksmith" ]
-      } /*,
-            {
-                "name": "Mountaineer",
-                "textures":[ "mountaineer" ]
-            }*/
+      }
     ],
     "list": [
       {
@@ -340,6 +336,24 @@
   ],
   "gymnpcs": [
     {
+      "name": "electricgymintro"
+    },
+    {
+      "name": "electricgymbase"
+    },
+    {
+      "name": "electricgymleader"
+    },
+    {
+      "name": "flyinggym2intro"
+    },
+    {
+      "name": "flyinggym2base"
+    },
+    {
+      "name": "flyinggym2leader"
+    },
+    {
       "name": "grassgymintro"
     },
     {
@@ -347,6 +361,24 @@
     },
     {
       "name": "grassgymleader"
+    },
+    {
+      "name": "grassgym2intro"
+    },
+    {
+      "name": "grassgym2base"
+    },
+    {
+      "name": "grassgym2leader"
+    },
+    {
+      "name": "watergymintro"
+    },
+    {
+      "name": "watergymbase"
+    },
+    {
+      "name": "watergymleader"
     }
   ]
 }
