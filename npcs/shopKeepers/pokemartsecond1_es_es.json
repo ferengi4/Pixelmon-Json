@@ -11,7 +11,13 @@
   },
   "textures": [
     {
+      "name": "shoplady.png"
+    },
+    {
       "name": "shoplady2.png"
+    },
+    {
+      "name": "shopsecondman.png"
     }
   ],
   "names": [
@@ -20,17 +26,27 @@
     },
     {
       "name": "Sra. Finnegan"
+    },
+    {
+      "name": "Sr. Prendergast"
     }
-
   ],
   "chat": [
     {
-      "hello": "Bienvenido a nuestra encantadora tienda. Estoy segura de que la calidad de nuestros productos te va a encantar.",
-      "goodbye": "Encantada de haberte conocido. Buenos días."
+      "hello": "Bienvenido a nuestra hermosa tienda. Espero que la calidad de nuestros productos sean de su agrado.",
+      "goodbye": "Encantado de haberte conocido. Buen día."
     },
     {
-      "hello": "Hola, y bienvenido a la Poké Tienda. Tenemos una amplia gamma de productos lujosos.",
-      "goodbye": "Gracias por comprar en la Poké Tienda."
+      "hello": "Hola, y bienvenido a la Tienda Pokémon. Tenemos una amplia gama de productos lujosos.",
+      "goodbye": "Gracias por comprar en la Tienda Pokémon."
+    },
+    {
+      "hello": "¡Bienvenu! En nuestra Tienda Pokémon tenemos mercancía de calidad que ofrecerle.",
+      "goodbye": "Ha sido realmente un placer hacer negocios contigo."
+    },
+    {
+      "hello": "Bienvenido a nuestra Tienda Pokémon. Disfruta mirando nuestra gama de productos de lujo.",
+      "goodbye": "Buen día, y gracias por comprar en nuestra tienda."
     }
   ],
   /*

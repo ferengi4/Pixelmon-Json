@@ -107,13 +107,13 @@
             "lose": "¡Maldición! ¿¡Mis Pokémon de tipo Agua han perdido!?"
         },
         {
-            "opening": "¡Te apuesto a que no puedes ganarme!",
+            "opening": "¡Te apuesto a que no me puedes ganar!",
             "win": "Sabía que te derrotaría.",
             "lose": "Me has derrotado. Imposible."
         },
         {
             "opening": "¿Tienes algún Pokémon de tipo Agua?",
-            "win": "Vale, te he derrotado. Ahora enseñame tus Pokémon de tipo Agua por favor.",
+            "win": "Vale, te he derrotado. Ahora enseñame tus Pokémon de tipo Agua, por favor.",
             "lose": "Creo que los Pokémon de tipo Agua no son tan buenos después de todo."
         },
         {
@@ -122,12 +122,12 @@
             "lose": "Entonces, ¿quieres intercambiar?"
         },
         {
-            "opening": "¿Quieres combatir?",
+            "opening": "¿Quieres un combate?",
             "win": "Gran batalla. Fue un verdadero reto para mí.",
             "lose": "Ganó el mejor Entrenador."
         },
         {
-            "opening": "¡Hora de probar mis Pokémon!",
+            "opening": "¡Hora de probar a mis Pokémon!",
             "win": "Finalmente, mi entrenamiento ha dado resultados.",
             "lose": "¡Necesito entrenar más!"
         },
@@ -138,16 +138,16 @@
         },
         {
             "opening": "Me encanta pescar. ¿Y a ti?",
-            "win": "Puedo enseñarte a pescar si quieres.",
+            "win": "Te puedo enseñar a pescar si quieres.",
             "lose": "Oh genial, he perdido. Creo que seguiré pescando."
         },
         {
-            "opening": "Deseo poder viajar atravesar del mar.",
+            "opening": "Desearía poder viajar através del mar.",
             "win": "He ganado. Ahora necesito encontrar a alguien que tenga la MO Surf.",
             "lose": "Buen combate. ¿Sabes donde puedo conseguir Surf?"
         },
         {
-            "opening": "Parece que hayas estado buscando por todas partes.",
+            "opening": "Parece que has estado buscando por todas partes.",
             "win": "Chico sin suerte. Puede que la próxima vez.",
             "lose": "Tus Pokémon son increibles. Tal vez deba intentar buscar por todas partes en vez de pescar todo el día."
         },
@@ -162,9 +162,9 @@
             "lose": "¡OH NO! ¡Mis Pokémon de tipo Agua han perdido!"
         },
         {
-            "opening": "Ibas andando por delante de mí. Ahora tenemos que combatir.",
+            "opening": "Ibas andando delante de mí. Ahora tenemos que combatir.",
             "win": "He ganado. Ahora tienes que correr al Centro Pokémon.",
-            "lose": "He perdido. Ahora necesito ir corriendo al Centro Pokémon."
+            "lose": "He perdido. Ahora debo ir corriendo al Centro Pokémon."
         }
     ]
 }

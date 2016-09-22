@@ -75,7 +75,7 @@
             "lose": "No son tan fuertes como yo pensaba..."
         },
         {
-            "opening": "He entrenado a mis tipo Roca para parar cualquier cosa.",
+            "opening": "He entrenado a mis tipo Roca para detener cualquier cosa.",
             "win": "¡Por supuesto que ellos te superan!",
             "lose": "¡Tú los superas un poco más!"
         },
@@ -87,12 +87,12 @@
         {
             "opening": "¡Dame un tipo Roca sobre un tipo Electrico algún día!",
             "win": "¡Mis rocas son las mejores!",
-            "lose": "Hmm. Bueno, no puedes ganar a todos..."
+            "lose": "Hmm. Bueno, uno no puede ganar a todos..."
         },
         {
-            "opening": "Mis Pokémon de tipo Roca no son unos gallinas, como muchos otros.",
+            "opening": "Mis Pokémon de tipo Roca no son cobardes, como muchos otros.",
             "win": "Buen intento, pero ya te advertí.",
-            "lose": "Soy un gallina. ¡Mis pobres Pokémon!"
+            "lose": "Yo soy el cobarde. ¡Mis pobres Pokémon!"
         }
     ]
 }

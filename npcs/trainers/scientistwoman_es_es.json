@@ -130,19 +130,19 @@
     ],
 	"chat": [
         {
-            "opening": "¡Estaré recogiendo datos de esta batalla!",
-            "win": "He anotado esto como un gran éxito. Aquí.",
-            "lose": "Los datos demuestran que no he entrenado lo suficiente..."
+            "opening": "¡Voy a estar recogiendo datos de este combate!",
+            "win": "He anotado esto como un gran éxito. Sí.",
+            "lose": "Los datos muestran que no he entrenado lo suficiente..."
         },
         {
-            "opening": "¡Sii! ¡Batalla experimental!",
+            "opening": "¡Síí! ¡Batalla experimental!",
             "win": "¡Eso fue muy instructivo!",
-            "lose": "Las pruebas no son concluyentes. Rehacer todo de nuevo."
+            "lose": "Las pruebas no son concluyentes. He de rehacer todo de nuevo."
         },
         {
             "opening": "He desarrollado una estrategia mediante complicadas estadísticas. ¡No puedo perder!",
             "win": "Estadísticamente hablando, esto es lo que esperaba.",
-            "lose": "Oh no, mis calculos eran incorrectos..."
+            "lose": "Oh no, mis calculos son incorrectos..."
         }
     ]
 }

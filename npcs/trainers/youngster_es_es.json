@@ -145,18 +145,18 @@
     ],
     "chat": [
         {
-            "opening": "¿Tú también eres entrenador? ¡Probemos nuestros Pokémon!",
+            "opening": "¿Tú también eres entrenador? ¡Probemos a nuestros Pokémon!",
             "win": "¡Sabía que mis Pokémon eran mejores que los tuyos!",
             "lose": "¿¡Tus Pokémon son mejores que los míos!?"
         },
         {
             "opening": "¡Mi equipo es imbatible! ¿Crees que puedes hacerles algo?",
             "win": "¡Ajajaja! ¡Mi equipo es imbatible!",
-            "lose": "¿¡Que!? ¡Pero si mi equipo es invencible!"
+            "lose": "¿¡Qué!? ¡Pero si mi equipo es invencible!"
         },
         {
-            "opening": "¿Haré daño a mis Pokémon?",
-            "win": "¡Si! ¡Mis Pokémon no han resultado heridos!",
+            "opening": "¿Les haré daño a mis Pokémon?",
+            "win": "¡Sí! ¡Mis Pokémon no han resultado heridos!",
             "lose": "¡Mis Pokémon! ¡No!"
         },
         {
@@ -165,9 +165,9 @@
             "lose": "...He perdido."
         },
         {
-            "opening": "¡Me encanta el queso! ¡Nada es más sabroso! Oh, ¿quieres luchar? Iba a comer algo de queso pero supongo que puede esperar.",
+            "opening": "¡Me encanta el queso! ¡Nada es más sabroso! Oh, ¿quieres luchar? Me apetecía algo de queso pero supongo que puedo esperar.",
             "win": "¡Victoria! ¡Se lo debo todo al queso!",
-            "lose": "Oh bueno, voy a ir a comer algo de queso."
+            "lose": "Oh bueno, me apetece algo de queso."
         },
         {
             "opening": "¡Me has mirado! ¡Luchemos!",
@@ -175,9 +175,9 @@
             "lose": "Desearía que no me hubieras mirado..."
         },
         {
-            "opening": "Mis padres pensaban que no podía ser Entrenador, ¡pero ahora soy imbatible!",
-            "win": "¡Sabía que podía ser Entrenador!",
-            "lose": "Tal vez mis padres tenían razón. No puedo ser Entrenador..."
+            "opening": "Mis padres pensaban que no podía llegar a ser una Entrenador, ¡pero ahora soy imbatible!",
+            "win": "¡Sabía que podía llegar a ser Entrenador!",
+            "lose": "Tal vez mis padres tenían razón. No podré llegar a ser Entrenador..."
         },
         {
             "opening": "¡Ha, parece que eres débil! ¡Lucha contra mí!",
@@ -187,12 +187,12 @@
         {
             "opening": "Me he perdido. Si te gano, por favor dime donde está el pueblo más cercano...",
             "win": "¡Si! Ahora, ¿dónde está el pueblo más cercano? ¿¡No me lo vas a decir!?",
-            "lose": "Oh no... Nunca llegaré a ningún pueblo..."
+            "lose": "Oh no... Nunca podré llegar a algún pueblo..."
         },
         {
-            "opening": "Eres un entrenador con aspecto feo. Ha, ¡apuesto a que tienes Pokémon débiles! ¡Lucha contra mí perdedor!",
+            "opening": "Eres un entrenador con aspecto horrible. já, ¡apuesto a que tus Pokémon son débiles! ¡Lucha contra mí perdedor!",
             "win": "¡Jaja! ¡Sabía que eras débil! ¡Eres patético!",
-            "lose": "¡Q-que! ¡No es posible! ¿¡Cómo has conseguido esos Pokémon!?"
+            "lose": "¡Q-qué! ¡No es posible! ¿¡Cómo has conseguido esos Pokémon!?"
         }
     ]
 }

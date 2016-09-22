@@ -74,9 +74,9 @@
             "lose": "Oh bueno. Avisame si encuentras uno."
         },
         {
-            "opening": "Los bichos son preciosos. ¡Me encantaría ver como intentas ganar a mi equipo!",
+            "opening": "Los bichos son preciosos. ¡Me gustaría ver como intentas ganar a mi equipo!",
             "win": "¿Ves la belleza de los bichos?",
-            "lose": "Puede que me hayas derrotado, pero fueron mis bichos los que de verdad brillaron."
+            "lose": "Puede que me hayas derrotado, pero fueron mis Pokémon los que de verdad brillaron."
         },
         {
             "opening": "¿Podemos luchar? Necesito hacer más fuerte a mis Pokémon de tipo bicho.",
@@ -95,16 +95,16 @@
         },
         {
             "opening": "¡Si gano, me tienes que dar tu Pokémon de tipo bicho!",
-            "win": "Ja ja, ¡entregamelo!",
+            "win": "Ja ja, ¡entrégamelo!",
             "lose": "¡No toques a mis Pokémon!"
         },
         {
             "opening": "¡BICHOS!",
-            "win": "¡Los bichos molan!",
+            "win": "¡Los bichos mandan!",
             "lose": "¿Por qué los Pokémon de tipo bicho son tan malos?"
         },
         {
-            "opening": "¡No hay Pokémon de tipo bicho buenos! ¡Si pierdo, haré un equipo nuevo!",
+            "opening": "¡No hay Pokémon de tipo bicho que sean buenos! ¡Si pierdo, me haré un equipo nuevo!",
             "win": "¡Supongo que estaba equivocado! ¡Los Pokémon bicho son alucinantes! ¡No necesito un nuevo equipo! ¡Este es increible!",
             "lose": "¡Eso es todo! ¡Haré un nuevo equipo!"
         },

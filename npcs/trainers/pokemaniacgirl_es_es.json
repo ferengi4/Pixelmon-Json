@@ -295,9 +295,9 @@
     ],
     "chat": [
         {
-            "opening": "¡Me encantan los Pokémon! ¡Vamos a luchar y veamos cuanto te quieren tus Pokémon!",
+            "opening": "¡Me encantan los Pokémon! ¡Vamos a luchar y veamos cuanto te aman tus Pokémon!",
             "win": "¡Deberías de cuidar mejor de tus Pokémon! ¡El amor los hace más fuertes!",
-            "lose": "¡Seguramente quieres a tus Pokémon tanto como yo a los míos!"
+            "lose": "¡Seguro que quieres a tus Pokémon tanto como yo a los míos!"
         }
     ]
 }

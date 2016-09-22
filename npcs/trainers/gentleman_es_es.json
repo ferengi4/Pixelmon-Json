@@ -63,14 +63,14 @@
     ],
     "chat": [
         {
-            "opening": "Tengo una mansión.",
+            "opening": "Vivo en una mansión.",
             "win": "Fue una batalla muy gentil.",
             "lose": "Que grosero es usted..."
 		},        
         {
             "opening": "Buenos días.",
             "win": "Parece que va a ser un gran día para mí.",
-            "lose": "Que grosero por tu parte no contestarme."
+            "lose": "Que mal por su parte el no contestarme."
         },        
         {
             "opening": "¿Te apetece un duelo caballeresco?",
@@ -79,7 +79,7 @@
         },
         {
             "opening": "Hacer dinero no es mi única hablidad.",
-            "win": "Hay mucho más de donde yo vengo.",
+            "win": "Hay mucho más de donde yo vine.",
             "lose": "Tal vez necesite algo más de práctica."
         }
     ]
