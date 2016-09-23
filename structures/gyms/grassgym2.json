@@ -203,7 +203,6 @@
       "maxLevel": 40,
       "sets": [
         {
-          // Only can have one move, so no other moveslots are present.
           "move1": [ "Hidden Power Psychic", "Hidden Power Ice", "Hidden Power Fire" ],
           "heldItem": [ "pixelmon:item.Choice_Specs", "pixelmon:item.Choice_Scarf", "pixelmon:item.FocusSash" ],
           "nature": [ "Modest", "Timid" ],
