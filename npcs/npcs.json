@@ -345,6 +345,15 @@
       "name": "electricgymleader"
     },
     {
+      "name": "firegym2intro"
+    },
+    {
+      "name": "firegym2base"
+    },
+    {
+      "name": "firegym2leader"
+    },
+    {
       "name": "flyinggym2intro"
     },
     {
@@ -370,6 +379,24 @@
     },
     {
       "name": "grassgym2leader"
+    },
+    {
+      "name": "groundgymintro"
+    },
+    {
+      "name": "groundgymbase"
+    },
+    {
+      "name": "groundgymleader"
+    },
+    {
+      "name": "icegymintro"
+    },
+    {
+      "name": "icegymbase"
+    },
+    {
+      "name": "icegymleader"
     },
     {
       "name": "watergymintro"

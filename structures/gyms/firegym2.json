@@ -1,0 +1,199 @@
+{
+  "npcs": [
+    {
+      "name": "firegym2intro",
+      "type": "chat",
+      "x": 1,
+      "y": 1,
+      "z": 13
+    },
+    {
+      "name": "firegym2base",
+      "type": "trainer",
+      "tier": 3,
+      "rotation": 0,
+      "x": 14,
+      "y": 1,
+      "z": 7
+    },
+    {
+      "name": "firegym2base",
+      "type": "trainer",
+      "tier": 3,
+      "rotation": 180,
+      "x": 17,
+      "y": 5,
+      "z": 21
+    },
+    {
+      "name": "firegym2base",
+      "type": "trainer",
+      "tier": 2, 
+      "rotation": 270,
+      "x": 9,
+      "y": 9,
+      "z": 17
+    },
+    {
+      "name": "firegym2base",
+      "type": "trainer",
+      "tier": 1, 
+      "rotation": 270,
+      "x": 19,
+      "y": 16,
+      "z": 15
+    },
+    {
+      "name": "firegym2leader",
+      "type": "trainer",
+      "tier": 0,
+      "rotation": 90,
+      "x": 27,
+      "y": 22,
+      "z": 15,
+      "drops": [ "pixelmon:item.FlameOrb" ]
+    }
+  ],
+  "pokemon": [
+    {
+      "name": "Torchic",
+      "maxLevel": 15,
+      "sets": [
+        {
+          "move1": [ "Flamethrower" ],
+          "move2": [ "Hidden Power Water" ],
+          "move3": [ "Round" ],
+          "move4": [ "Will-O-Wisp" ],
+          "ability": [ "Speed Boost" ],
+          "heldItem": [ "pixelmon:item.Life_Orb" ],
+          "nature": [ "Modest" ],
+          "evSpAtk": 252,
+          "evHP": 252,
+          "evDef": 4
+        }
+      ]
+    },
+    {
+      "name": "Combusken",
+      "minLevel": 16,
+      "maxLevel": 35,
+      "sets": [
+        {
+          "move1": [ "Sky Uppercut" ],
+          "move2": [ "Flare Blitz" ],
+          "move3": [ "Thunder Punch" ],
+          "move4": [ "Swords Dance" ],
+          "ability": [ "Speed Boost" ],
+          "heldItem": [ "pixelmon:item.Life_Orb" ],
+          "nature": [ "Adamant" ],
+          "evSpAtk": 252,
+          "evHP": 252,
+          "evDef": 4
+        }
+      ]
+    },
+    {
+      "name": "Blaziken",
+      "minLevel": 36,
+      "sets": [
+        {
+          "move1": [ "Protect" ],
+          "move2": [ "Flare Blitz" ],
+          "move3": [ "Low Kick" ],
+          "move4": [ "Stone Edge" ],
+          "ability": [ "Speed Boost" ],
+          "heldItem": [ "pixelmon:item.Life_Orb" ],
+          "nature": [ "Adamant" ],
+          "evAtk": 252,
+          "evSpeed": 252,
+          "evDef": 4
+        }
+      ]
+    },
+    {
+      "name": "Volcarona",
+      "sets": [
+        {
+          "move1": [ "Quiver Dance" ],
+          "move2": [ "Fire Blast" ],
+          "move3": [ "Giga Drain" ],
+          "move4": [ "Bug Buzz" ],
+          "ability": [ "Flame Body" ],
+          "heldItem": [ "pixelmon:item.Life_Orb" ],
+          "nature": [ "Modest" ],
+          "evSpAtk": 252,
+          "evSpeed": 252,
+          "evSpDef": 4
+        }
+      ]
+    },
+    {
+      "name": "Chandelure",
+      "sets": [
+        {
+          "move1": [ "Fire Blast" ],
+          "move2": [ "Shadow Ball" ],
+          "move3": [ "Energy Ball" ],
+          "move4": [ "Trick" ],
+          "ability": [ "Flash Fire" ],
+          "heldItem": [ "pixelmon:item.Choice_Scarf" ],
+          "nature": [ "Timid" ],
+          "evSpAtk": 252,
+          "evSpeed": 252,
+          "evSpDef": 4
+        }
+      ]
+    },
+    {
+      "name": "Ninetales",
+      "sets": [
+        {
+          "move1": [ "Confuse Ray" ],
+          "move2": [ "Solar Beam" ],
+          "move3": [ "Fire Blast" ],
+          "move4": [ "Hidden Power Fighting" ],
+          "ability": [ "Drought" ],
+          "heldItem": [ "pixelmon:item.Life_Orb" ],
+          "nature": [ "Modest" ],
+          "evSpAtk": 252,
+          "evSpeed": 252,
+          "evDef": 4
+        }
+      ]
+    },
+    {
+      "name": "Houndoom",
+      "sets": [
+        {
+          "move1": [ "Nasty Plot" ],
+          "move2": [ "Fire Blast" ],
+          "move3": [ "Dark Pulse" ],
+          "move4": [ "Hidden Power Water" ],
+          "ability": [ "Drought" ],
+          "heldItem": [ "pixelmon:item.Life_Orb" ],
+          "nature": [ "Timid" ],
+          "evSpAtk": 252,
+          "evSpeed": 252,
+          "evDef": 4
+        }
+      ]
+    },
+    {
+      "name": "Arcanine",
+      "sets": [
+        {
+          "move1": [ "Iron Head" ],
+          "move2": [ "Close Combat" ],
+          "move3": [ "Thunder Fang" ],
+          "move4": [ "Outrage" ],
+          "ability": [ "Drought" ],
+          "heldItem": [ "pixelmon:item.Life_Orb" ],
+          "nature": [ "Adamant" ],
+          "evAtk": 252,
+          "evSpeed": 252,
+          "evDef": 4
+        }
+      ]
+    }
+  ]
+}

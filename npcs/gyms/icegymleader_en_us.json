@@ -4,17 +4,17 @@
 
   "skins": [
     {
-      "filename": "grassleader1.png"
+      "filename": "iceleader1.png"
     }
   ],
   "names": [
     {
-      "name": "Rex"
+      "name": "Korudo"
     }
   ],
   "chat": [
     {
-      "opening": "You made it to me.  Don't think i'll take it easy on you!",
+      "opening": "I'm impressed you made it up here.  Don't think i'll take it easy on you!",
       "win": "Ha! Don't come back.",
       "lose": "You got lucky kid!"
     }

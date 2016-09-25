@@ -47,6 +47,12 @@
       "depth": 2
     },
     {
+      "id": "firegym2",
+      "filename": "firegym2.snapshot",
+      "npcdata": "firegym2.json",
+      "depth": 2
+    },
+    {
       "id": "flyinggym2",
       "filename": "flyinggym2.snapshot",
       "npcdata": "flyinggym2.json",
@@ -63,6 +69,18 @@
       "filename": "grassgym2.snapshot",
       "npcdata": "grassgym2.json",
       "depth": 2
+    },
+    {
+      "id": "groundgym",
+      "filename": "groundgym.snapshot",
+      "npcdata": "groundgym.json",
+      "depth": 2
+    },
+    {
+      "id": "icegym",
+      "filename": "icegym.snapshot",
+      "npcdata": "icegym.json",
+      "depth": 3
     },
     {
       "id": "watergym",

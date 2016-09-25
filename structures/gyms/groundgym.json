@@ -1,0 +1,214 @@
+{
+  "npcs": [
+    {
+      "name": "groundgymintro",
+      "type": "chat",
+      "rotation": 0,
+      "x": 12,
+      "y": 9,
+      "z": 12
+    },
+    {
+      "name": "groundgymbase",
+      "type": "trainer",
+      "tier": 3,
+      "rotation": 180,
+      "x": 15,
+      "y": 9,
+      "z": 19
+    },
+    {
+      "name": "groundgymbase",
+      "type": "trainer",
+      "tier": 2, 
+      "rotation": 180,
+      "x": 8,
+      "y": 9,
+      "z": 19
+    },
+    {
+      "name": "groundgymbase",
+      "type": "trainer",
+      "tier": 2, 
+      "rotation": 90,
+      "x": 20,
+      "y": 9,
+      "z": 11
+    },
+	    {
+      "name": "groundgymbase",
+      "type": "trainer",
+      "tier": 2, 
+      "rotation": 270,
+      "x": 3,
+      "y": 9,
+      "z": 12
+    },
+	    {
+      "name": "groundgymbase",
+      "type": "trainer",
+      "tier": 2, 
+      "rotation": 270,
+      "x": 10,
+      "y": 9,
+      "z": 5
+    },
+    {
+      "name": "groundgymbase",
+      "type": "trainer",
+      "tier": 1, 
+      "rotation": 270,
+      "x": 7,
+      "y": 18,
+      "z": 13
+    },
+    {
+      "name": "groundgymbase",
+      "type": "trainer",
+      "tier": 1, 
+      "rotation": 90,
+      "x": 16,
+      "y": 18,
+      "z": 12
+    },
+    {
+      "name": "groundgymbase",
+      "type": "trainer",
+      "tier": 1, 
+      "rotation": 270,
+      "x": 7,
+      "y": 18,
+      "z": 9
+    },
+    {
+      "name": "groundgymleader",
+      "type": "trainer",
+      "tier": 0,
+      "rotation": 0,
+      "x": 11,
+      "y": 4,
+      "z": 3, 
+      "drops": [ "pixelmon:TM26_-_Earthquake" ]
+    }
+  ],
+  "pokemon": [
+    {
+      "name": "Sandile",
+      "maxLevel": 29,
+      "sets": [
+        {
+          "move1": [ "Earthquake", "Hone Claws"],
+          "move2": [ "Iron Tail", "Fire Fang", "Stone Edge"],
+          "move3": [ "Rock Slide", "Eartquake", "Thunder Fang" ],
+          "move4": [ "Thunder Fang", "Fire Fang", "Pursuit" ],
+          "heldItem": [ "pixelmon:item.Choice_Scarf", "pixelmon:item.BlackGlasses" ],
+		  "nature": [ "Lonely", "Brave", "Adamant", "Naughty", "Timid" ]
+        }
+      ]
+    },
+	{
+      "name": "Krokorok",
+	  "minLevel": 29,
+      "maxLevel": 40,
+      "sets": [
+        {
+          "move1": [ "Earthquake", "Hone Claws" ],
+          "move2": [ "Iron Tail", "Fire Fang", "Stone Edge"],
+          "move3": [ "Rock Slide", "Eartquake", "Thunder Fang" ],
+          "move4": [ "Thunder Fang", "Fire Fang", "Pursuit" ],
+          "heldItem": [ "pixelmon:item.Choice_Scarf", "pixelmon:item.BlackGlasses", "pixelmon:item.ChopleBerry" ],
+		  "nature": [ "Lonely", "Brave", "Adamant", "Naughty", "Timid" ]
+        }
+      ]
+    },
+	{
+      "name": "Krookodile",
+      "minLevel": 40,
+      "sets": [
+        {
+          "move1": [ "Earthquake", "Crunch", "Protect" ],
+          "move2": [ "Iron Tail", "Fire Fang", "Stone Edge", "Low Sweep"],
+          "move3": [ "Rock Slide", "Eartquake", "Thunder Fang", "Bulk up" ],
+          "move4": [ "Thunder Fang", "Fire Fang", "Pursuit", "Superpower" ],
+          "heldItem": ["pixelmon:item.Choice_Scarf", "pixelmon:item.BlackGlasses", "pixelmon:item.FocusSash", "pixelmon:item.ChopleBerry" ],
+		  "nature": [ "Lonely", "Brave", "Adamant", "Naughty", "Timid" ],
+		  "evAtk": 252,
+		  "evSpeed": 252
+        }
+      ]
+    },
+	{
+      "name": "Gliscor",
+      "sets": [
+        {
+          "move1": [ "Earthquake", "Roost", "Brick Break", "Sludge Bomb" ],
+          "move2": [ "Substitute", "Taunt", "Rock Tomb", "Iron Tail"],
+          "move3": [ "Protect", "Acrobatics", "Earthquake", "Sky Attack" ],
+          "move4": [ "Toxic", "Tailwind", "Giga Impact", "Hyper Beam" ],
+          "heldItem": [ "pixelmon:item.Choice_Scarf", "pixelmon:item.Flying_Gem" ],
+		  "evSpeed": 252
+        }
+      ]
+    },	
+	{
+      "name": "Marowak",
+      "sets": [
+        {
+          "move1": [ "Earthquake", "Double-Edge", "Rock Slide" ],
+          "move2": [ "Fire Punch", "Double-Edge", "Thunder Punch" ],
+          "move3": [ "Thunder Punch", "Swords Dance", "Rock Slide", "Bonemerang" ],
+          "move4": [ "Detect", "Bonemerang", "Substitute", "Stealth Rock" ],
+          "heldItem": ["pixelmon:item.Choice_Scarf", "pixelmon:item.Thick Club" ],
+		  "evAtk": 252
+		  
+        }
+      ]
+    },
+	{
+      "name": "Nidoking",
+      "minLevel": 32,
+      "sets": [
+        {
+          "move1": [ "Earthquake", "Crunch", "Venoshock", "Thunder", "Thunderbolt" ],
+          "move2": [ "Taunt", "Sunny Day", "Rain Dance", "Shadow Ball"],
+          "move3": [ "Sludge wave", "Fire Blast", "Iron Tail", "Poison Jab" ],
+          "move4": [ "Flatter", "Focus Energy", "Double Kick", "MegaHorn" ],
+          "heldItem": ["pixelmon:item.Life_Orb", "pixelmon:item.BlackSludge" ]
+        }
+      ]
+    },
+    {
+      "name": "Donphan",
+      "sets": [
+        {
+          "move1": [ "Earthquake", "Giga Impact" ],
+          "move2": [ "Ice Shard", "Thunder Fang","Fire Fang"],
+          "move3": [ "Stealth Rock", "Magnitude", "Bounce" ],
+          "move4": [ "Rapid Spin", "Endure", "Toxic", "Rest" ], //By the way, Poison moves in this file go for when pixelmon gets fairy type
+          "heldItem": ["pixelmon:item.Life_Orb",  "pixelmon:item.Leftovers", "pixelmon:item.SoftSand", "pixelmon:item.Ground_Gem" ]
+        }
+      ]
+    },
+    {
+      "name": "Camerupt",
+      "sets": [
+        {
+          "move1": [ "Stealth Rock" , "Earth Power", "Rock Polish", "Rock Slide", "Earthquake" ],
+          "move2": [ "Rock Smash", "Dig", "Toxic", "Lava Plume" ],
+          "move3": [ "Fire Blast","Eruption", "Heat Wave" , "Roar" ],
+          "move4": [ "Hyper Beam", "Overheat", "Protect" ],
+          "heldItem": [ "pixelmon:item.Ground_Gem", "pixelmon:item.Fire_Gem", "pixelmon:item.QuickClaw"  ],
+          "evHP": 248
+        },
+        {
+          "move1": [ "Earthquake" ],
+          "move2": [ "Sunny Day" ],
+          "move3": [ "Solar Beam" ],
+          "move4": [ "Fire Blast" ],
+          "heldItem": [ "pixelmon:item.Ground_Gem", "pixelmon:item.Fire_Gem", "pixelmon:item.QuickClaw"  ],
+          "evHP": 248
+        }
+      ]
+    }
+  ]
+}
