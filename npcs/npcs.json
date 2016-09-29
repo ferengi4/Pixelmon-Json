@@ -345,6 +345,15 @@
       "name": "electricgymleader"
     },
     {
+      "name": "firegymintro"
+    },
+    {
+      "name": "firegymbase"
+    },
+    {
+      "name": "firegymleader"
+    },
+    {
       "name": "firegym2intro"
     },
     {
@@ -352,6 +361,15 @@
     },
     {
       "name": "firegym2leader"
+    },
+    {
+      "name": "flyinggymintro"
+    },
+    {
+      "name": "flyinggymbase"
+    },
+    {
+      "name": "flyinggymleader"
     },
     {
       "name": "flyinggym2intro"
@@ -397,6 +415,24 @@
     },
     {
       "name": "icegymleader"
+    },
+    {
+      "name": "psychicgymintro"
+    },
+    {
+      "name": "psychicgymbase"
+    },
+    {
+      "name": "psychicgymleader"
+    },
+    {
+      "name": "steelgymintro"
+    },
+    {
+      "name": "steelgymbase"
+    },
+    {
+      "name": "steelgymleader"
     },
     {
       "name": "watergymintro"

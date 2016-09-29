@@ -184,7 +184,7 @@
           "move1": [ "Earthquake", "Giga Impact" ],
           "move2": [ "Ice Shard", "Thunder Fang","Fire Fang"],
           "move3": [ "Stealth Rock", "Magnitude", "Bounce" ],
-          "move4": [ "Rapid Spin", "Endure", "Toxic", "Rest" ], //By the way, Poison moves in this file go for when pixelmon gets fairy type
+          "move4": [ "Rapid Spin", "Endure", "Toxic", "Rest" ], 
           "heldItem": ["pixelmon:item.Life_Orb",  "pixelmon:item.Leftovers", "pixelmon:item.SoftSand", "pixelmon:item.Ground_Gem" ]
         }
       ]

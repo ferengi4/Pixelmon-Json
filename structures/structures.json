@@ -47,9 +47,21 @@
       "depth": 2
     },
     {
+      "id": "firegym",
+      "filename": "firegym.snapshot",
+      "npcdata": "firegym.json",
+      "depth": 7
+    },
+    {
       "id": "firegym2",
       "filename": "firegym2.snapshot",
       "npcdata": "firegym2.json",
+      "depth": 2
+    },
+    {
+      "id": "flyinggym",
+      "filename": "flyinggym.snapshot",
+      "npcdata": "flyinggym.json",
       "depth": 2
     },
     {
@@ -81,6 +93,18 @@
       "filename": "icegym.snapshot",
       "npcdata": "icegym.json",
       "depth": 3
+    },
+    {
+      "id": "psychicgym",
+      "filename": "psychicgym.snapshot",
+      "npcdata": "psychicgym.json",
+      "depth": 2
+    },
+    {
+      "id": "steelgym",
+      "filename": "steelgym.snapshot",
+      "npcdata": "steelgym.json",
+      "depth": 2
     },
     {
       "id": "watergym",
