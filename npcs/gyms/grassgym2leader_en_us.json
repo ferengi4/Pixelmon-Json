@@ -15,7 +15,7 @@
   "chat": [
     {
       "opening": "You crossed the meadow only to lose!",
-      "win": "I win! Now, run off, I got better trainers to battle.",
+      "win": "I win! Now, run off; I've got better Trainers to battle.",
       "lose": "I can't believe you beat me..."
     }
   ]

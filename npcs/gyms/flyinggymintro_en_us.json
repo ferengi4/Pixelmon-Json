@@ -14,13 +14,13 @@
     {
       "lines": [
         {
-          "text": "Welcome to the Feather Gym"
+          "text": "Welcome to the Feather Gym."
         },
         {
           "text": "The Gym Leader perches himself at the very top!"
         },
         {
-          "text": "Be careful when jumping from branch to branch, it's a long way down..."
+          "text": "Be careful when jumping from branch to branch; it's a long way down..."
         }
       ]
     }

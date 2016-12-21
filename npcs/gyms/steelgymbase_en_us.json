@@ -9,13 +9,13 @@
   ],
   "names": [
     {
-      "name": "TrainerBoy"
+      "name": "Trainer Boy"
     }
   ],
   "chat": [
     {
       "opening": "How do you like our worksite?",
-      "win": "I'm invincible when working",
+      "win": "I'm invincible when working.",
       "lose": "Impossible!"
     }
   ]

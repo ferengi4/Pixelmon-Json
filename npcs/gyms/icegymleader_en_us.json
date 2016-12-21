@@ -14,9 +14,9 @@
   ],
   "chat": [
     {
-      "opening": "I'm impressed you made it up here.  Don't think i'll take it easy on you!",
+      "opening": "I'm impressed you made it up here. Don't think I'll take it easy on you!",
       "win": "Ha! Don't come back.",
-      "lose": "You got lucky kid!"
+      "lose": "You got lucky, kid!"
     }
   ]
 }

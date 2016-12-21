@@ -14,9 +14,9 @@
   ],
   "chat": [
     {
-      "opening": "We train our pokemon in tall grass!",
+      "opening": "We train our Pokémon in tall grass!",
       "win": "I hope you learnt a thing or two here.",
-      "lose": "You are well trained."
+      "lose": "You are well-trained."
     }
   ]
 }

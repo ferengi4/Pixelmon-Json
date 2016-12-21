@@ -14,13 +14,13 @@
     {
       "lines": [
         {
-          "text": "Welcome to the Inferno Gym"
+          "text": "Welcome to the Inferno Gym."
         },
         {
           "text": "The Gym Leader here lies across a river of lava!"
         },
         {
-          "text": "Try not to fall in it, that's a one way trip to getting burned!"
+          "text": "Try not to fall in it; that's a one-way trip to getting burned!"
         }
       ]
     }

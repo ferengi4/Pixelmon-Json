@@ -21,8 +21,8 @@
   ],
   "chat": [
     {
-      "opening": "I'll show you how strong rocks are",
-      "win": "This is a rocky situation",
+      "opening": "I'll show you how strong rocks are.",
+      "win": "This is a rocky situation.",
       "lose": "I'm a rocky man!"
     }
   ]

@@ -14,9 +14,9 @@
   ],
   "chat": [
     {
-      "opening": "I will rock you",
-      "win": "Somebody betta put you back into your place",
-      "lose": "You waved your banner on my place"
+      "opening": "I will rock you.",
+      "win": "Somebody betta put you back into your place.",
+      "lose": "You waved your banner on my place."
     }
   ]
 }

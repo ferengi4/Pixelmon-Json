@@ -15,7 +15,7 @@
   "chat": [
     {
       "opening": "You will go down!",
-      "win": "You never had a chance",
+      "win": "You never had a chance.",
       "lose": "You already came down to meet me."
     }
   ]

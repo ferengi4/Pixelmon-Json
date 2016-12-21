@@ -9,13 +9,13 @@
   ],
   "names": [
     {
-      "name": "TrainerBoy"
+      "name": "Trainer Boy"
     }
   ],
   "chat": [
     {
-      "opening": "With all this static there's no way I'll lose!",
-      "win": "Come back with more something more shocking",
+      "opening": "With all this static, there's no way I'll lose!",
+      "win": "Come back with something more shocking.",
       "lose": "No way!"
     }
   ]

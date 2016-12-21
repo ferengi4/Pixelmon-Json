@@ -14,9 +14,9 @@
   ],
   "chat": [
     {
-      "opening": "Are you ready to get heated up!",
+      "opening": "Are you ready to get heated up?",
       "win": "Ha! Come back when you're as hot as I am.",
-      "lose": "You got lucky kid!"
+      "lose": "You got lucky, kid!"
     }
   ]
 }

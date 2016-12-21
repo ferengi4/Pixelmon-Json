@@ -9,14 +9,14 @@
   ],
   "names": [
     {
-      "name": "TrainerBoy"
+      "name": "Trainer Boy"
     }
   ],
   "chat": [
     {
       "opening": "Don't you just love the air in here?",
       "win": "A fresh and easy win!",
-      "lose": "There air isn't so good anymore now that I stink..."
+      "lose": "The air isn't so good anymore now that I stink..."
     }
   ]
 }

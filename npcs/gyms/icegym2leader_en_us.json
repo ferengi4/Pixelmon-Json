@@ -14,9 +14,9 @@
   ],
   "chat": [
     {
-      "opening": "How do you like our ice cold gym?",
+      "opening": "How do you like our ice-cold Gym?",
       "win": "Ha! Get more used to the cold.",
-      "lose": "You got lucky kid!"
+      "lose": "You got lucky, kid!"
     }
   ]
 }
