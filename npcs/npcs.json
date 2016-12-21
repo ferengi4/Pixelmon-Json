@@ -381,6 +381,15 @@
       "name": "flyinggym2leader"
     },
     {
+      "name": "grassbuggymintro"
+    },
+    {
+      "name": "grassbuggymbase"
+    },
+    {
+      "name": "grassbuggymleader"
+    },
+    {
       "name": "grassgymintro"
     },
     {
@@ -417,6 +426,15 @@
       "name": "icegymleader"
     },
     {
+      "name": "icegym2intro"
+    },
+    {
+      "name": "icegym2base"
+    },
+    {
+      "name": "icegym2leader"
+    },
+    {
       "name": "psychicgymintro"
     },
     {
@@ -424,6 +442,15 @@
     },
     {
       "name": "psychicgymleader"
+    },
+    {
+      "name": "rockgymintro"
+    },
+    {
+      "name": "rockgymbase"
+    },
+    {
+      "name": "rockgymleader"
     },
     {
       "name": "steelgymintro"
@@ -442,6 +469,15 @@
     },
     {
       "name": "watergymleader"
+    },
+    {
+      "name": "watergym2intro"
+    },
+    {
+      "name": "watergym2base"
+    },
+    {
+      "name": "watergym2leader"
     }
   ]
 }

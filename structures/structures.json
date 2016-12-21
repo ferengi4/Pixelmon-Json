@@ -83,6 +83,12 @@
       "depth": 2
     },
     {
+      "id": "grassbuggym",
+      "filename": "grassbuggym.snapshot",
+      "npcdata": "grassbuggym.json",
+      "depth": 2
+    },
+    {
       "id": "groundgym",
       "filename": "groundgym.snapshot",
       "npcdata": "groundgym.json",
@@ -95,9 +101,21 @@
       "depth": 3
     },
     {
+      "id": "icegym2",
+      "filename": "icegym2.snapshot",
+      "npcdata": "icegym2.json",
+      "depth": 4
+    },
+    {
       "id": "psychicgym",
       "filename": "psychicgym.snapshot",
       "npcdata": "psychicgym.json",
+      "depth": 2
+    },
+    {
+      "id": "rockgym",
+      "filename": "rockgym.snapshot",
+      "npcdata": "rockgym.json",
       "depth": 2
     },
     {
@@ -110,6 +128,12 @@
       "id": "watergym",
       "filename": "watergym.snapshot",
       "npcdata": "watergym.json",
+      "depth": 3
+    },
+    {
+      "id": "watergym2",
+      "filename": "watergym2.snapshot",
+      "npcdata": "watergym2.json",
       "depth": 3
     }
   ],

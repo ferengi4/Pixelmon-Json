@@ -1,0 +1,398 @@
+{
+  "npcs": [
+    {
+      "name": "rockgymintro",
+      "type": "chat",
+      "rotation": 0,
+      "x": 4,
+      "y": 1,
+      "z": 15
+    },
+    {
+      "name": "rockgymbase",
+      "type": "trainer",
+      "tier": 3, 
+      "rotation": 0,
+      "x": 8,
+      "y": 1,
+      "z": 11
+    },
+    {
+      "name": "rockgymbase",
+      "type": "trainer",
+      "tier": 3, 
+      "rotation": 0,
+      "x": 12,
+      "y": 1,
+      "z": 12
+    },
+    {
+      "name": "rockgymbase",
+      "type": "trainer",
+      "tier": 3, 
+      "rotation": 90,
+      "x": 22,
+      "y": 1,
+      "z": 15
+    },
+    {
+      "name": "rockgymbase",
+      "type": "trainer",
+      "tier": 3, 
+      "rotation": 180,
+      "x": 18,
+      "y": 1,
+      "z": 20
+    },
+    {
+      "name": "rockgymbase",
+      "type": "trainer",
+      "tier": 3, 
+      "rotation": 0,
+      "x": 21,
+      "y": 1,
+      "z": 5
+    },
+    {
+      "name": "rockgymbase",
+      "type": "trainer",
+      "tier": 3, 
+      "rotation": 0,
+      "x": 15,
+      "y": 1,
+      "z": 6
+    },
+    {
+      "name": "rockgymbase",
+      "type": "trainer",
+      "tier": 3, 
+      "rotation": 270,
+      "x": 11,
+      "y": 4,
+      "z": 6
+    },
+    {
+      "name": "rockgymbase",
+      "type": "trainer",
+      "tier": 3, 
+      "rotation": 180,
+      "x": 9,
+      "y": 7,
+      "z": 9
+    },
+    {
+      "name": "rockgymbase",
+      "type": "trainer",
+      "tier": 3, 
+      "rotation": 270,
+      "x": 6,
+      "y": 7,
+      "z": 13
+    },
+    {
+      "name": "rockgymbase",
+      "type": "trainer",
+      "tier": 3, 
+      "rotation": 90,
+      "x": 13,
+      "y": 7,
+      "z": 12
+    },
+    {
+      "name": "rockgymbase",
+      "type": "trainer",
+      "tier": 3, 
+      "rotation": 180,
+      "x": 9,
+      "y": 7,
+      "z": 18
+    },
+    {
+      "name": "rockgymbase",
+      "type": "trainer",
+      "tier": 3, 
+      "rotation": 180,
+      "x": 15,
+      "y": 7,
+      "z": 20
+    },
+    {
+      "name": "rockgymbase",
+      "type": "trainer",
+      "tier": 3, 
+      "rotation": 90,
+      "x": 21,
+      "y": 7,
+      "z": 18
+    },
+    {
+      "name": "rockgymbase",
+      "type": "trainer",
+      "tier": 3, 
+      "rotation": 270,
+      "x": 15,
+      "y": 9,
+      "z": 11
+    },
+    {
+      "name": "rockgymbase",
+      "type": "trainer",
+      "tier": 3, 
+      "rotation": 0,
+      "x": 17,
+      "y": 13,
+      "z": 5
+    },
+    {
+      "name": "rockgymbase",
+      "type": "trainer",
+      "tier": 2, 
+      "rotation": 180,
+      "x": 13,
+      "y": 13,
+      "z": 8
+    },
+    {
+      "name": "rockgymbase",
+      "type": "trainer",
+      "tier": 2, 
+      "rotation": 90,
+      "x": 13,
+      "y": 13,
+      "z": 11
+    },
+    {
+      "name": "rockgymbase",
+      "type": "trainer",
+      "tier": 2, 
+      "rotation": 270,
+      "x": 6,
+      "y": 13,
+      "z": 7
+    },
+    {
+      "name": "rockgymbase",
+      "type": "trainer",
+      "tier": 2, 
+      "rotation": 0,
+      "x": 6,
+      "y": 14,
+      "z": 13
+    },
+    {
+      "name": "rockgymbase",
+      "type": "trainer",
+      "tier": 2, 
+      "rotation": 180,
+      "x": 15,
+      "y": 13,
+      "z": 21
+    },
+    {
+      "name": "rockgymbase",
+      "type": "trainer",
+      "tier": 2, 
+      "rotation": 90,
+      "x": 16,
+      "y": 13,
+      "z": 15
+    },
+    {
+      "name": "rockgymbase",
+      "type": "trainer",
+      "tier": 1, 
+      "rotation": 90,
+      "x": 20 ,
+      "y": 13,
+      "z": 14
+    },
+    {
+      "name": "rockgymleader",
+      "type": "trainer",
+      "tier": 0,
+      "rotation": 180,
+      "x": 16,
+      "y": 22,
+      "z": 17, 
+      "drops": [ "pixelmon:TM39_-_Rock_Tomb" ]
+    }
+  ],
+  "pokemon": [
+    {
+      "name": "Dwebble", 
+      "maxLevel": 39,
+      "sets": [
+        {
+          "move1": [ "Earthquake", "Rock Slide" ],
+          "move2": [ "Solar Beam", "Poison Jab", "Shadow Claw", "Faint Attack" ],
+          "move3": [ "Solar Beam", "Stone Edge", "X-Scissor", "Poison Jab", "Shadow Claw", "Faint Attack" ],
+          "move4": [ "Stone Edge", "X-Scissor", "Rock Wrecker" ],
+          "heldItem": [ "pixelmon:item.Choice_Scarf", "pixelmon:item.PasshoBerry", "pixelmon:item.ShucaBerry", "pixelmon:item.OccaBerry" ],
+		  "nature": [ "Lonely", "Adamant", "Naughty", "Jolly" ],
+          "evAtk":252,
+          "evSpeed": 252,
+          "evHP": 4
+        },
+        {
+          "move1": [ "Earthquake", "Rock Slide", "Night Slash" ], 
+          "move2": [ "Solar Beam", "Poison Jab", "Shadow Claw", "Faint Attack", "Night Slash" ],
+          "move3": [ "Solar Beam", "Stone Edge", "X-Scissor", "Poison Jab", "Shadow Claw", "Faint Attack" ],
+          "move4": [ "Stone Edge", "X-Scissor", "Rock Wrecker" ],
+          "heldItem": [ "pixelmon:item.ScopeLens", "pixelmon:item.ZoomLens", "pixelmon:item.Choice_Scarf",  "pixelmon:item.PasshoBerry", "pixelmon:item.ShucaBerry", "pixelmon:item.OccaBerry" ],
+		  "nature": [ "Brave", "Relaxed" ],
+          "evAtk":252,
+          "evDef":252,
+          "evHP": 4
+        }
+      ]
+    },
+	{
+      "name": "Crustle",
+	  "minLevel": 34,
+      "sets": [
+        {
+          "move1": [ "Earthquake", "Rock Slide", "Giga Impact" ],
+          "move2": [ "Solar Beam", "Poison Jab", "Shadow Claw", "Faint Attack" ],
+          "move3": [ "Solar Beam", "Stone Edge", "X-Scissor", "Poison Jab", "Shadow Claw", "Faint Attack" ],
+          "move4": [ "Stone Edge", "X-Scissor", "Rock Wrecker" ],
+          "heldItem": [ "pixelmon:item.Choice_Scarf", "pixelmon:item.PasshoBerry", "pixelmon:item.ShucaBerry", "pixelmon:item.OccaBerry" ],
+		  "nature": [ "Lonely", "Adamant", "Naughty", "Jolly" ],
+          "evAtk":252,
+          "evSpeed": 252,
+          "evHP": 4
+        },
+        {
+          "move1": [ "Earthquake", "Rock Slide", "Night Slash" ], 
+          "move2": [ "Solar Beam", "Poison Jab", "Shadow Claw", "Faint Attack", "Night Slash", "Giga Impact" ],
+          "move3": [ "Solar Beam", "Stone Edge", "X-Scissor", "Poison Jab", "Shadow Claw", "Faint Attack" ],
+          "move4": [ "Stone Edge", "X-Scissor", "Rock Wrecker" ],
+          "heldItem": [ "pixelmon:item.ScopeLens", "pixelmon:item.ZoomLens", "pixelmon:item.Choice_Scarf",  "pixelmon:item.PasshoBerry", "pixelmon:item.ShucaBerry", "pixelmon:item.OccaBerry" ],
+		  "nature": [ "Brave", "Relaxed" ],
+          "evAtk":252,
+          "evDef":252,
+          "evSpeed": 0,
+          "evHP": 4
+        }
+      ]
+    },
+    {
+      "name": "Aerodactyl",
+	  "minLevel": 2,
+      "sets": [
+        {
+          "move1": [ "Thunder Fang" ], 
+          "move2": [ "Earthquake" ],
+          "move3": [ "Stone Edge" ],
+          "move4": [ "Fire Fang" ],
+          "heldItem": [ "pixelmon:item.WideLens", "pixelmon:item.Choice_Band" ],
+		  "nature": [ "Adamant" ],
+          "evAtk":252,
+          "evSpeed": 252,
+          "evHP": 4
+        }
+      ]
+    },
+    {
+      "name": "Geodude",
+	  "minLevel": 2,
+      "maxLevel": 24,
+      "sets": [
+        {
+          "move1": [ "Stone Edge" ], 
+          "move2": [ "Earthquake" ],
+          "move3": [ "Explosion" ],
+          "move4": [ "Superpower" ],
+          "heldItem": [ "pixelmon:item.Choice_Band", "pixelmon:item.Life_Orb" ],
+		  "nature": [ "Impish", "Careful", "Adamant" ],
+          "evAtk":252,
+          "evDef": 252,
+          "evHP": 4
+        }
+      ]
+    },
+    {
+      "name": "Graveler",
+	  "minLevel": 25,
+      "sets": [
+        {
+          "move1": [ "Stone Edge", "Double-Edge" ], 
+          "move2": [ "Selfdestruct" ],
+          "move3": [ "Earthquake" ],
+          "move4": [ "Thunder Punch", "Fire Punch" ],
+          "heldItem": [ "pixelmon:item.Life_Orb", "pixelmon:item.FocusSash", "pixelmon:item.Choice_Band" ],
+		  "nature": [ "Adamant", "Brave", "Careful", "Impish" ],
+          "evHP":252,
+          "evDef": 252,
+          "evAtk": 4
+        }
+      ]
+    },
+    {
+      "name": "Golem",
+	  "minLevel": 25,
+      "sets": [
+        {
+          "move1": [ "Stone Edge", "Double-Edge" ], 
+          "move2": [ "Selfdestruct" ],
+          "move3": [ "Wide Guard", "Block" ],
+          "move4": [ "Thunder Punch", "Fire Punch", "Focus Punch" ],
+          "heldItem": [ "pixelmon:item.FocusSash", "pixelmon:item.RockyHelmet", "pixelmon:item.Leftovers" ],
+		  "nature": [ "Adamant", "Brave", "Careful", "Impish" ],
+          "evDef":252,
+          "evSpDef": 252,
+          "evHP": 4
+        }
+      ]
+    },
+    {
+      "name": "Lunatone",
+	  "minLevel": 2,
+      "sets": [
+        {
+          "move1": [ "Future Sight", "Psyshock" ], 
+          "move2": [ "Heal Block" ],
+          "move3": [ "Ice Beam" ],
+          "move4": [ "Shadow Ball", "Earth Power" ],
+          "heldItem": [ "pixelmon:item.TwistedSpoon", "pixelmon:item.PasshoBerry", "pixelmon:item.ShucaBerry" ],
+		  "nature": [ "Mild", "Modest", "Hasty", "Timid", "Calm" ],
+          "evSpAtk":252,
+          "evSpeed": 252,
+          "evHP": 4
+        }
+      ]
+    },
+    {
+      "name": "Solrock",
+	  "minLevel": 2,
+      "sets": [
+        {
+          "move1": [ "Stone Edge" ], 
+          "move2": [ "Acrobatics" ],
+          "move3": [ "Zen Headbutt" ],
+          "move4": [ "Iron Head" ],
+		  "nature": [ "Adamant", "Careful", "Impish", "Joly" ],
+          "evAtk":252,
+          "evSpeed": 252,
+          "evHP": 4
+        }
+      ]
+    },
+    {
+      "name": "Onix",
+	  "minLevel": 2,
+      "sets": [
+        {
+          "move1": [ "Iron Tail", "Heavy Slam" ], 
+          "move2": [ "Dig", "Earthquake" ],
+          "move3": [ "Stone Edge", "Flail" ],
+          "move4": [ "Sandstorm", "Taunt", "Toxic", "Roar" ],
+          "heldItem": [ "pixelmon:item.Leftovers" ],
+		  "nature": [ "Adamant", "Impish", "Careful" ],
+          "evDef":252,
+          "evSpDef": 252,
+          "evHP": 4
+        }
+      ]
+    }
+  ]
+}
