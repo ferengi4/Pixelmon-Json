@@ -1,0 +1,209 @@
+{
+  "npcs": [
+    {
+      "name": "watergymintro",
+      "type": "chat",
+      "x": 13,
+      "y": 3,
+      "z": 4
+    },
+    {
+      "name": "watergymbase",
+      "type": "trainer",
+      "tier": 3,
+      "rotation": 180,
+      "x": 15,
+      "y": 13,
+      "z": 23
+    },
+    {
+      "name": "watergymbase",
+      "type": "trainer",
+      "tier": 2, 
+      "rotation": 90,
+      "x": 23,
+      "y": 13,
+      "z": 14
+    },
+    {
+      "name": "watergymbase",
+      "type": "trainer",
+      "tier": 1, 
+      "rotation": 0,
+      "x": 14,
+      "y": 13,
+      "z": 6
+    },
+    {
+      "name": "watergymleader",
+      "type": "trainer",
+      "tier": 0,
+      "rotation": 90,
+      "x": 11,
+      "y": 19,
+      "z": 14,
+      "drops": [ "pixelmon:item.MysticWater" ]
+    }
+  ],
+  "pokemon": [
+    {
+      "name": "Corsola",
+      "sets": [
+        {
+          "move1": [ "Toxic" ],
+          "move2": [ "Recover" ],
+          "move3": [ "Stealth Rock" ],
+          "move4": [ "Scald" ],
+          "ability": [ "Regenerator" ],
+          "heldItem": [ "pixelmon:item.Leftovers" ],
+          "nature": [ "Bold" ],
+          "evHP": 252,
+          "evDef": 252,
+          "evSpAtk": 4
+        }
+      ]
+    },
+    {
+      "name": "Octillery",
+      "minLevel": 25, 
+      "sets": [
+        {
+          "move1": [ "Hydro Pump" ],
+          "move2": [ "Ice Beam" ],
+          "move3": [ "Fire Blast" ],
+          "move4": [ "Energy Ball" ],
+          "ability": [ "Sniper" ],
+          "heldItem": [ "pixelmon:item.Life_Orb" ],
+          "nature": [ "Modest" ],
+          "evHP": 252,
+          "evSpAtk": 252,
+          "evSpDef": 4
+        }
+      ]
+    },
+    {
+      "name": "Quagsire",
+      "minLevel": 20, 
+      "sets": [
+        {
+          "move1": [ "Scald" ],
+          "move2": [ "Toxic" ],
+          "move3": [ "Earthquake" ],
+          "move4": [ "Recover" ],
+          "ability": [ "Unaware" ],
+          "heldItem": [ "pixelmon:item.Leftovers" ],
+          "nature": [ "Relaxed" ],
+          "evHP": 252,
+          "evDef": 252,
+          "evSpDef": 4
+        }
+      ]
+    },
+    {
+      "name": "Starmie",
+      "sets": [
+        {
+          "move1": [ "Surf" ],
+          "move2": [ "Rapid Spin" ],
+          "move3": [ "Psyshock" ],
+          "move4": [ "Recover" ],
+          "ability": [ "Natural Cure" ],
+          "heldItem": [ "pixelmon:item.Life_Orb" ],
+          "nature": [ "Timid" ],
+          "evSpAtk": 252,
+          "evSpeed": 252,
+          "evSpDef": 4
+        }
+      ]
+    },
+    {
+      "name": "Cloyster",
+      "sets": [
+        {
+          "move1": [ "Icicle Spear" ],
+          "move2": [ "Shell Smash" ],
+          "move3": [ "Rock Blast" ],
+          "move4": [ "Razor Shell" ],
+          "ability": [ "Skill Link" ],
+          "heldItem": [ "pixelmon:item.NeverMeltIce" ],
+          "nature": [ "Adamant" ],
+          "evAtk": 252,
+          "evSpeed": 158,
+          "evDef": 100
+        }
+      ]
+    },
+    {
+      "name": "Mudkip",
+      "maxLevel": 15,
+      "sets": [
+        {
+          "move1": [ "Take Down" ],
+          "move2": [ "Dig" ],
+          "move3": [ "Waterfall" ],
+          "move4": [ "Ice Ball" ],
+          "ability": [ "Torrent" ],
+          "heldItem": [ "pixelmon:item.Life_Orb" ],
+          "nature": [ "Relaxed" ],
+          "evAtk": 252,
+          "evDef": 252,
+          "evHP": 4
+        }
+      ]
+    },
+    {
+      "name": "Marshtomp",
+      "minLevel": 16,
+      "maxLevel": 35,
+      "sets": [
+        {
+          "move1": [ "Stealth Rock" ],
+          "move2": [ "Earthquake" ],
+          "move3": [ "Scald" ],
+          "move4": [ "Roar" ],
+          "ability": [ "Torrent" ],
+          "heldItem": [ "pixelmon:item.Leftovers" ],
+          "nature": [ "Relaxed" ],
+          "evHP": 252,
+          "evDef": 252,
+          "evAtk": 4
+        }
+      ]
+    },
+    {
+      "name": "Swampert",
+      "minLevel": 36,
+      "sets": [
+        {
+          "move1": [ "Stealth Rock" ],
+          "move2": [ "Earthquake" ],
+          "move3": [ "Waterfall" ],
+          "move4": [ "Roar" ],
+          "ability": [ "Torrent" ],
+          "heldItem": [ "pixelmon:item.Leftovers" ],
+          "nature": [ "Relaxed" ],
+          "evHP": 252,
+          "evDef": 252,
+          "evAtk": 4
+        }
+      ]
+    },
+    {
+      "name": "Slowbro",
+      "sets": [
+        {
+          "move1": [ "Slack Off" ],
+          "move2": [ "Scald" ],
+          "move3": [ "Psyshock" ],
+          "move4": [ "Calm Mind" ],
+          "ability": [ "Oblivious" ],
+          "heldItem": [ "pixelmon:item.Leftovers" ],
+          "nature": [ "Bold" ],
+          "evHP": 252,
+          "evDef": 232,
+          "evSpeed": 24
+        }
+      ]
+    }
+  ]
+}

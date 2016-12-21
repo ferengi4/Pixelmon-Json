@@ -41,10 +41,100 @@
   ],
   "gyms": [
     {
+      "id": "electricgym",
+      "filename": "electricgym.snapshot",
+      "npcdata": "electricgym.json",
+      "depth": 2
+    },
+    {
+      "id": "firegym",
+      "filename": "firegym.snapshot",
+      "npcdata": "firegym.json",
+      "depth": 7
+    },
+    {
+      "id": "firegym2",
+      "filename": "firegym2.snapshot",
+      "npcdata": "firegym2.json",
+      "depth": 2
+    },
+    {
+      "id": "flyinggym",
+      "filename": "flyinggym.snapshot",
+      "npcdata": "flyinggym.json",
+      "depth": 2
+    },
+    {
+      "id": "flyinggym2",
+      "filename": "flyinggym2.snapshot",
+      "npcdata": "flyinggym2.json",
+      "depth": 2
+    },
+    {
       "id": "grassgym",
       "filename": "grassgym.snapshot",
       "npcdata": "grassgym.json",
       "depth": 8
+    },
+    {
+      "id": "grassgym2",
+      "filename": "grassgym2.snapshot",
+      "npcdata": "grassgym2.json",
+      "depth": 2
+    },
+    {
+      "id": "grassbuggym",
+      "filename": "grassbuggym.snapshot",
+      "npcdata": "grassbuggym.json",
+      "depth": 2
+    },
+    {
+      "id": "groundgym",
+      "filename": "groundgym.snapshot",
+      "npcdata": "groundgym.json",
+      "depth": 2
+    },
+    {
+      "id": "icegym",
+      "filename": "icegym.snapshot",
+      "npcdata": "icegym.json",
+      "depth": 3
+    },
+    {
+      "id": "icegym2",
+      "filename": "icegym2.snapshot",
+      "npcdata": "icegym2.json",
+      "depth": 4
+    },
+    {
+      "id": "psychicgym",
+      "filename": "psychicgym.snapshot",
+      "npcdata": "psychicgym.json",
+      "depth": 2
+    },
+    {
+      "id": "rockgym",
+      "filename": "rockgym.snapshot",
+      "npcdata": "rockgym.json",
+      "depth": 2
+    },
+    {
+      "id": "steelgym",
+      "filename": "steelgym.snapshot",
+      "npcdata": "steelgym.json",
+      "depth": 2
+    },
+    {
+      "id": "watergym",
+      "filename": "watergym.snapshot",
+      "npcdata": "watergym.json",
+      "depth": 3
+    },
+    {
+      "id": "watergym2",
+      "filename": "watergym2.snapshot",
+      "npcdata": "watergym2.json",
+      "depth": 3
     }
   ],
   "standalone":[

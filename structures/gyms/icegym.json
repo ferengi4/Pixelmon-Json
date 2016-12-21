@@ -1,0 +1,223 @@
+{
+  "npcs": [
+    {
+      "name": "icegymintro",
+      "type": "chat",
+      "x": 19,
+      "y": 3,
+      "z": 25
+    },
+    {
+      "name": "icegymbase",
+      "type": "trainer",
+      "tier": 3,
+      "rotation": 90,
+      "x": 24,
+      "y": 7,
+      "z": 9
+    },
+    {
+      "name": "icegymbase",
+      "type": "trainer",
+      "tier": 3, 
+      "rotation": 270,
+      "x": 17,
+      "y": 10,
+      "z": 25
+    },
+    {
+      "name": "icegymbase",
+      "type": "trainer",
+      "tier": 2, 
+      "rotation": 0,
+      "x": 10,
+      "y": 13,
+      "z": 9
+    },
+    {
+      "name": "icegymbase",
+      "type": "trainer",
+      "tier": 1, 
+      "rotation": 180,
+      "x": 26,
+      "y": 16,
+      "z": 16
+    },
+    {
+      "name": "icegymleader",
+      "type": "trainer",
+      "tier": 0,
+      "rotation": 0,
+      "x": 17,
+      "y": 18,
+      "z": 14,
+      "drops": [ "pixelmon:item.NeverMeltIce" ]
+    }
+  ],
+  "pokemon": [
+    {
+      "name": "Spheal",
+      "maxLevel": 32,
+      "sets": [
+        {
+          "move1": [ "Ice Beam" ],
+          "move2": [ "Surf" ],
+          "move3": [ "Aqua Ring" ],
+          "move4": [ "Round" ],
+          "ability": [ "Thick Fat" ],
+          "heldItem": [ "pixelmon:item.NeverMeltIce" ]
+        }
+      ]
+    },
+    {
+      "name": "Sealeo",
+      "minLevel": 33,
+      "maxLevel": 44,
+      "sets": [
+        {
+          "move1": [ "Ice Beam" ],
+          "move2": [ "Surf" ],
+          "move3": [ "Stockpile" ],
+          "move4": [ "Swallow", "Spit Up" ],
+          "ability": [ "Thick Fat" ],
+          "heldItem": [ "pixelmon:item.Eviolite" ],
+          "nature": [ "Modest" ],
+          "evHP": 252,
+          "evSpDef": 252,
+          "evDef": 4
+        },
+        {
+          "minLevel": 33,
+          "move1": [ "Hail" ],
+          "move2": [ "Toxic" ],
+          "move3": [ "Aqua Ring" ],
+          "move4": [ "Yawn" ],
+          "ability": [ "Ice Body" ],
+          "heldItem": [ "pixelmon:item.MuscleBand", "pixelmon:item.Leftovers" ],
+          "nature": [ "Calm", "Sassy" ],
+          "evHP": 252,
+          "evDef": 4,
+          "evSpDef": 252,
+          "lead": true
+        }
+      ]
+    },
+    {
+      "name": "Walrein",
+      "minLevel": 44,
+      "sets": [
+        {
+          "move1": [ "Toxic" ],
+          "move2": [ "Hail" ],
+          "move3": [ "Aqua Ring" ],
+          "move4": [ "Yawn" ],
+          "heldItem": [ "pixelmon:item.Leftovers" ],
+          "ability": [ "Ice Body" ],
+          "nature": [ "Calm", "Sassy" ],
+          "evHP": 252,
+          "evSpDef": 252,
+          "evDef": 4,
+          "lead": true
+        },
+        {
+          "minLevel": 45,
+          "move1": [ "Ice Beam" ],
+          "move2": [ "Surf" ],
+          "move3": [ "Hidden Power Ground", "Hidden Power Psychic" ],
+          "move4": [ "Yawn", "Water Sport", "Taunt" ],
+          "ability": [ "Thick Fat" ],
+          "heldItem": [ "pixelmon:item.Life_Orb", "pixelmon:item.Leftovers" ],
+          "nature": [ "Timid" ],
+          "evSpAtk": 252,
+          "evSpDef": 4,
+          "evHP": 252
+        }
+      ]
+    },
+    {
+      "name": "Dewgong",
+      "minLevel": 34,
+      "sets": [
+        {
+          "move1": [ "Ice Beam" ],
+          "move2": [ "Aqua Ring" ],
+          "move3": [ "Surf" ],
+          "move4": [ "Hidden Power Ground", "Hidden Power Psychic" ],
+          "ability": [ "Thick Fat" ],
+          "nature": [ "Modest" ],
+          "evHP": 252,
+          "evSpDef": 4,
+          "evSpAtk": 252
+        }
+      ]
+    },
+    {
+      "name": "Cloyster",
+      "sets": [
+        {
+          "move1": [ "Icicle Spear" ],
+          "move2": [ "Shell Smash" ],
+          "move3": [ "Rock Blast" ],
+          "move4": [ "Razor Shell" ],
+          "heldItem": [ "pixelmon:item.NeverMeltIce" ],
+          "ability": [ "Skill Link" ],
+          "nature": [ "Adamant" ],
+          "evAtk": 252,
+          "evDef": 100,
+          "evSpeed": 158
+        }
+      ]
+    },
+    {
+      "name": "Lapras",
+      "sets": [
+        {
+          "move1": [ "Body Slam" ],
+          "move2": [ "Water Pulse" ],
+          "move3": [ "Ice Shard" ],
+          "move4": [ "Hidden Power Earth" ],
+          "heldItem": [ "pixelmon:item.Leftovers" ],
+          "ability": [ "Water Absorb" ],
+          "nature": [ "Relaxed" ],
+          "evSpAtk": 252,
+          "evSpDef": 4,
+          "evSpeed": 252
+        }
+      ]
+    },
+    {
+      "name": "Mamoswine",
+      "minLevel": 33,
+      "sets": [
+        {
+          "move1": [ "Earthquake" ],
+          "move2": [ "Ice Fang" ],
+          "move3": [ "Iron Head" ],
+          "move4": [ "Take Down" ],
+          "heldItem": [ "pixelmon:item.Life_Orb" ],
+          "ability": [ "Thick Fat" ],
+          "nature": [ "Adamant", "Careful" ],
+          "evAtk": 252,
+          "evSpDef": 4,
+          "evHP": 252
+        }
+      ]
+    },
+    {
+      "name": "Glaceon",
+      "sets": [
+        {
+          "move1": [ "Ice Beam" ],
+          "move2": [ "Shadow Ball" ],
+          "move3": [ "Hidden Power Psychic" ],
+          "move4": [ "Water Pulse" ],
+          "heldItem": [ "pixelmon:item.FocusSash" ],
+          "nature": [ "Modest" ],
+          "evSpAtk": 252,
+          "evSpDef": 4,
+          "evSpeed": 252
+        }
+      ]
+    }
+  ]
+}

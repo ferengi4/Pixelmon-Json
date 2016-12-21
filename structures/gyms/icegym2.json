@@ -1,0 +1,210 @@
+{
+  "npcs": [
+    {
+      "name": "icegym2intro",
+      "type": "chat",
+      "x": 24,
+      "y": 3,
+      "z": 4
+    },
+    {
+      "name": "icegym2base",
+      "type": "trainer",
+      "tier": 3,
+      "rotation": 270,
+      "x": 12,
+      "y": 3,
+      "z": 16
+    },
+    {
+      "name": "icegym2base",
+      "type": "trainer",
+      "tier": 3, 
+      "rotation": 225,
+      "x": 5,
+      "y": 3,
+      "z": 23
+    },
+    {
+      "name": "icegym2base",
+      "type": "trainer",
+      "tier": 2, 
+      "rotation": 90,
+      "x": 12,
+      "y": 3,
+      "z": 24
+    },
+    {
+      "name": "icegym2base",
+      "type": "trainer",
+      "tier": 1, 
+      "rotation": 90,
+      "x": 29,
+      "y": 3,
+      "z": 23
+    },
+    {
+      "name": "icegym2leader",
+      "type": "trainer",
+      "tier": 0,
+      "rotation": 0,
+      "x": 44,
+      "y": 3,
+      "z": 15,
+      "drops": [ "pixelmon:item.NeverMeltIce" ]
+    }
+  ],
+  "pokemon": [
+    {
+      "name": "Weavile",
+      "sets": [
+        {
+          "move1": [ "Night Slash" ],
+          "move2": [ "Icicle Crash" ],
+          "move3": [ "Crush Claw", "Fake Out" ],
+          "move4": [ "X-Scissor", "Poison Jab" ],
+          "ability": [ "Pressure" ],
+          "heldItem": [ "pixelmon:item.King's_Rock" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "evDef": 4,
+          "evSpeed": 252,
+          "evAtk": 252
+        }
+      ]
+    },
+    {
+      "name": "Swinub",
+      "maxLevel": 16,
+      "sets": [
+        {
+          "move1": [ "Stealth Rock" ],
+          "move2": [ "Ice Shard" ],
+          "move3": [ "Earthquake" ],
+          "move4": [ "Endeavor" ],
+          "ability": [ "Oblivious" ],
+          "heldItem": [ "pixelmon:item.FocusSash" ]
+        }
+      ]
+    },
+    {
+      "name": "Piloswine",
+      "minLevel": 17,
+      "maxLevel": 35,
+      "sets": [
+        {
+          "move1": [ "Stealth Rock" ],
+          "move2": [ "Ice Shard" ],
+          "move3": [ "Earthquake" ],
+          "move4": [ "Icicle Crash", "Toxic" ],
+          "ability": [ "Thick Fat" ],
+          "heldItem": [ "pixelmon:item.Life_Orb" ],
+          "nature": [ "Adamant" ],
+          "evHP": 252,
+          "evAtk": 252,
+          "evSpDef": 4
+        },
+        {
+          "minLevel": 17,
+          "maxLevel": 35,
+          "move1": [ "Stealth Rock" ],
+          "move2": [ "Ice Shard" ],
+          "move3": [ "Earthquake" ],
+          "move4": [ "Icicle Crash", "Toxic" ],
+          "ability": [ "Thick Fat" ],
+          "heldItem": [ "pixelmon:item.Eviolite" ],
+          "nature": [ "Adamant" ],
+          "evHP": 248,
+          "evAtk": 252,
+          "evDef": 8
+        }
+      ]
+    },
+    {
+      "name": "Mamoswine",
+      "minLevel": 33,
+      "sets": [
+        {
+          "move1": [ "Earthquake" ],
+          "move2": [ "Ice Fang" ],
+          "move3": [ "Iron Head" ],
+          "move4": [ "Take Down" ],
+          "heldItem": [ "pixelmon:item.Life_Orb" ],
+          "ability": [ "Thick Fat" ],
+          "nature": [ "Adamant", "Careful" ],
+          "evAtk": 252,
+          "evSpDef": 4,
+          "evHP": 252
+        }
+      ]
+    },
+    {
+      "name": "Glaceon",
+      "sets": [
+        {
+          "move1": [ "Ice Beam" ],
+          "move2": [ "Shadow Ball" ],
+          "move3": [ "Hidden Power Psychic" ],
+          "move4": [ "Water Pulse" ],
+          "ability": [ "Ice Body" ],
+          "heldItem": [ "pixelmon:item.FocusSash" ],
+          "nature": [ "Modest" ],
+          "evSpAtk": 252,
+          "evSpDef": 4,
+          "evSpeed": 252
+        }
+      ]
+    },
+    {
+      "name": "Cryogonal",
+      "sets": [
+        {
+          "move1": [ "Rapid Spin", "Toxic" ],
+          "move2": [ "Blizzard" ],
+          "move3": [ "Hail" ],
+          "move4": [ "Recover" ],
+          "ability": [ "Levitate" ],
+          "heldItem": [ "pixelmon:item.NeverMeltIce", "pixelmon:item.IcyRock" ],
+          "nature": [ "Timid", "Modest" ],
+          "evHP": 196,
+          "evDef": 4,
+          "evSpAtk": 56,
+          "evSpeed": 252
+        }
+      ]
+    },
+    {
+      "name": "Jynx",
+      "sets": [
+        {
+          "move1": [ "Water Pulse" ],
+          "move2": [ "Blizzard" ],
+          "move3": [ "Psyshock" ],
+          "move4": [ "Energy Ball" ],
+          "ability": [ "Oblivious" ],
+          "heldItem": [ "pixelmon:item.Choice_Specs" ],
+          "nature": [ "Timid" ],
+          "evHP": 4,
+          "evSpAtk": 552,
+          "evSpeed": 252
+        }
+      ]
+    },
+    {
+      "name": "Delibird",
+      "sets": [
+        {
+          "move1": [ "Spikes" ],
+          "move2": [ "Swagger" ],
+          "move3": [ "Icy Wind" ],
+          "move4": [ "Destiny Bond" ],
+          "ability": [ "Vital Spirit" ],
+          "heldItem": [ "pixelmon:item.FocusSash" ],
+          "nature": [ "Timid" ],
+          "evDef": 4,
+          "evSpAtk": 252,
+          "evSpeed": 252
+        }
+      ]
+    }
+  ]
+}

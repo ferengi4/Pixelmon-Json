@@ -1,0 +1,22 @@
+{
+  "npctype": "trainer",
+  "winnings": 32,
+
+  "skins": [
+    {
+      "filename": "psychic_f.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "TrainerGirl"
+    }
+  ],
+  "chat": [
+    {
+      "opening": "You'll never reach the top!",
+      "win": "Woohoo! What's the matter, can't soar to victory?",
+      "lose": "You only won out of pure luck!"
+    }
+  ]
+}

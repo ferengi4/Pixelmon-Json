@@ -1,0 +1,25 @@
+{
+  "npctype": "chat",
+  "skins": [
+    {
+      "filename": "firebreather5.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Netsu"
+    }
+  ],
+  "chat": [
+    {
+      "lines": [
+        {
+          "text": "Welcome to the Beacon gym"
+        },
+        {
+          "text": "Our Gym Leader taking hot baths!"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "npctype": "trainer",
+  "winnings": 52,
+
+  "skins": [
+    {
+      "filename": "grassleader2.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Aloe"
+    }
+  ],
+  "chat": [
+    {
+      "opening": "You crossed the meadow only to lose!",
+      "win": "I win! Now, run off, I got better trainers to battle.",
+      "lose": "I can't believe you beat me..."
+    }
+  ]
+}

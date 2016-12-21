@@ -1,0 +1,297 @@
+{
+  "npcs": [
+    {
+      "name": "firegymintro",
+      "type": "chat",
+      "x": 25,
+      "y": 6,
+      "z": 6
+    },
+    {
+      "name": "firegymbase",
+      "type": "trainer",
+      "tier": 3,
+      "rotation": 180,
+      "x": 27,
+      "y": 8,
+      "z": 16
+    },
+    {
+      "name": "firegymbase",
+      "type": "trainer",
+      "tier": 3,
+      "rotation": 270,
+      "x": 20,
+      "y": 9,
+      "z": 14
+    },
+    {
+      "name": "firegymbase",
+      "type": "trainer",
+      "tier": 3, 
+      "rotation": 270,
+      "x": 5,
+      "y": 6,
+      "z": 16
+    },
+    {
+      "name": "firegymbase",
+      "type": "trainer",
+      "tier": 2, 
+      "rotation": 90,
+      "x": 8,
+      "y": 2,
+      "z": 23
+    },
+    {
+      "name": "firegymbase",
+      "type": "trainer",
+      "tier": 2, 
+      "rotation": 90,
+      "x": 8,
+      "y": 2,
+      "z": 21
+    },
+    {
+      "name": "firegymbase",
+      "type": "trainer",
+      "tier": 1, 
+      "rotation": 90,
+      "x": 18,
+      "y": 8,
+      "z": 27
+    },
+    {
+      "name": "firegymbase",
+      "type": "trainer",
+      "tier": 1, 
+      "rotation": 0,
+      "x": 38,
+      "y": 7,
+      "z": 22
+    },
+    {
+      "name": "firegymleader",
+      "type": "trainer",
+      "tier": 0,
+      "rotation": 90,
+      "x": 48,
+      "y": 11,
+      "z": 17,
+      "drops": [ "pixelmon:item.FlameOrb" ]
+    }
+  ],
+  "pokemon": [
+    {
+      "name": "Chimchar",
+      "maxLevel": 13,
+      "sets": [
+        {
+          "move1": [ "Fake Out" ],
+          "move2": [ "Stealth Rock" ],
+          "move3": [ "Overheat", "Fire Blast" ],
+          "move4": [ "Hidden Power Grass" ],
+          "ability": [ "Blaze" ],
+          "heldItem": [ "pixelmon:item.Life_Orb", "pixelmon:item.FocusSash" ],
+          "nature": ["Hasty"],
+          "evAtk": 56,
+          "evSpeed": 188,
+          "evHP": 4,
+          "evSpAtk": 216,
+          "evSpDef": 4,
+          "lead": true
+        }
+      ]
+    },
+    {
+      "name": "Monferno",
+      "maxLevel": 35,
+      "sets": [
+        {
+          "move1": [ "Close Combat" ],
+          "move2": [ "Mach Punch" ],
+          "move3": [ "Rock Slide" ],
+          "move4": [ "Thunder Punch" ],
+          "ability": [ "Iron Fist" ],
+          "heldItem": [ "pixelmon:item.Life_Orb", "pixelmon:item.FocusSash" ],
+          "nature": ["Jolly"],
+          "evAtk": 252,
+          "evSpeed": 252,
+          "evHP": 4
+        }
+      ]
+    },
+    {
+      "name": "Infernape",
+      "minLevel": 36,
+      "sets": [
+        {
+          "move1": [ "Flare Blitz" ],
+          "move2": [ "Close Combat" ],
+          "move3": [ "U-turn" ],
+          "move4": [ "Thunder Punch", "Mach Punch" ],
+          "ability": [ "Iron Fist" ],
+          "heldItem": [ "pixelmon:item.Life_Orb", "pixelmon:item.Choice_Band" ],
+          "nature": ["Jolly"],
+          "evAtk": 252,
+          "evSpeed": 252,
+          "evHP": 4
+        },
+        {
+          "move1": [ "Overheat" ],
+          "move2": [ "Close Combat" ],
+          "move3": [ "Thunder Punch" ],
+          "move4": [ "Hidden Power Ice", "U-turn", "Mach Punch" ],
+          "ability": [ "Iron Fist" ],
+          "heldItem": [ "pixelmon:item.Life_Orb", "pixelmon:item.ExpertBelt" ],
+          "nature": ["Naive", "Hasty"],
+          "evAtk": 180,
+          "evSpAtk": 76,
+          "evSpeed": 252
+        },
+        {
+          "move1": [ "Fake Out" ],
+          "move2": [ "Stealth Rock" ],
+          "move3": [ "Overheat" ],
+          "move4": [ "Close Combat" ],
+          "ability": [ "Blaze" ],
+          "heldItem": [ "pixelmon:item.FocusSash" ],
+          "nature": ["Naive"],
+          "evAtk": 252,
+          "evSpeed": 252,
+          "evSpAtk": 4
+        },
+        {
+          "move1": [ "Close Combat" ],
+          "move2": [ "Fire Blast", "Flare Blitz" ],
+          "move3": [ "U-turn" ],
+          "move4": [ "Hidden Power Ice", "Stone Edge" ],
+          "ability": [ "Blaze" ],
+          "heldItem": [ "pixelmon:item.Choice_Scarf" ],
+          "nature": ["Naive"],
+          "evAtk": 36,
+          "evSpeed": 252,
+          "evSpAtk": 220
+        }
+      ]
+    },
+    {
+      "name": "Ponyta",
+      "maxLevel": 39,
+      "sets": [
+        {
+          "move1": [ "Will-O-Wisp", "Sunny Day" ],
+          "move2": [ "Morning Sun" ],
+          "move3": [ "Wild Charge", "Return" ],
+          "move4": [ "Flare Blitz" ],
+          "ability": [ "Flame Body" ],
+          "heldItem": [ "pixelmon:item.Eviolite" ],
+          "nature": ["Jolly"],
+          //"happiness": 255,
+          "evAtk": 156,
+          "evSpeed": 196,
+          "evDef": 76,
+          "evSpDef": 76
+        },
+        {
+          "move1": [ "Flare Blitz" ],
+          "move2": [ "Wild Charge" ],
+          "move3": [ "Return" ],
+          "move4": [ "Flame Charge" ],
+          "ability": [ "Flash Fire" ],
+          "heldItem": [ "pixelmon:item.Life_Orb" ],
+          "nature": ["Jolly"],
+          //"happiness": 255,
+          "evAtk": 236,
+          "evSpeed": 196,
+          "evHP": 36
+        }
+      ]
+    },
+    {
+      "name": "Rapidash",
+      "minLevel": 40,
+      "sets": [
+        {
+          "move1": [ "Flare Blitz" ],
+          "move2": [ "Wild Charge" ],
+          "move3": [ "Low Kick" ],
+          "move4": [ "Morning Sun", "Baton Pass" ],
+          "ability": [ "Flash Fire" ],
+          "heldItem": [ "pixelmon:item.Life_Orb", "pixelmon:item.Choice_Band" ],
+          "nature": ["Jolly"],
+          //"happiness": 255,
+          "evAtk": 252,
+          "evSpeed": 252,
+          "evSpDef": 4
+        }
+      ]
+    },
+    {
+      "name": "Magcargo",
+      "minLevel": 38,
+      "sets": [
+        {
+          "move1": [ "Stealth Rock" ],
+          "move2": [ "Recover" ],
+          "move3": [ "Lava Plume" ],
+          "move4": [ "Toxic" ],
+          "ability": [ "Flame Body" ],
+          "heldItem": [ "pixelmon:item.Leftovers" ],
+          "nature": ["Bold"],
+          "evHP": 248,
+          "evDef": 8,
+          "evSpDef": 252
+        }
+      ]
+    },
+    {
+      "name": "Camerupt",
+      "minLevel": 33,
+      "sets": [
+        {
+          "move1": [ "Stealth Rock" ],
+          "move2": [ "Lava Plume" ],
+          "move3": [ "Earth Power" ],
+          "move4": [ "Roar" ],
+          "ability": [ "Solid Rock" ],
+          "heldItem": [ "pixelmon:item.Leftovers" ],
+          "nature": ["Calm"],
+          "evHP": 248,
+          "evDef": 8,
+          "evSpDef": 252
+        },
+        {
+          "move1": [ "Eruption" ],
+          "move2": [ "Fire Blast" ],
+          "move3": [ "Earth Power" ],
+          "move4": [ "Hidden Power Grass" ],
+          "ability": [ "Solid Rock" ],
+          "heldItem": [ "pixelmon:item.Choice_Specs" ],
+          "nature": ["Modest"],
+          "evHP": 52,
+          "evSpAtk": 252,
+          "evSpeed": 204
+        }
+      ]
+    },
+    {
+      "name": "Magmortar",
+      "minLevel": 30,
+      "sets": [
+        {
+          "move1": [ "Fire Blast" ],
+          "move2": [ "Thunder Bolt" ],
+          "move3": [ "Focus Blast" ],
+          "move4": [ "Hidden Power Grass", "Substitute" ],
+          "ability": [ "Vital Spirit" ],
+          "heldItem": [ "pixelmon:item.Life_Orb", "pixelmon:item.ExpertBelt" ],
+          "nature": ["Modest", "Timid"],
+          "evSpeed": 252,
+          "evDef": 4,
+          "evSpAtk": 252
+        }
+      ]
+    }
+  ]
+}

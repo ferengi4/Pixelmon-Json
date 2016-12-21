@@ -1,0 +1,218 @@
+{
+  "npcs": [
+    {
+      "name": "steelgymintro",
+      "type": "chat",
+      "x": 23,
+      "y": 1,
+      "z": 12
+    },
+    {
+      "name": "steelgymbase",
+      "type": "trainer",
+      "tier": 3,
+      "rotation": 0,
+      "x": 21,
+      "y": 8,
+      "z": 3
+    },
+    {
+      "name": "steelgymbase",
+      "type": "trainer",
+      "tier": 3,
+      "rotation": 180,
+      "x": 8,
+      "y": 8,
+      "z": 9
+    },
+    {
+      "name": "steelgymbase",
+      "type": "trainer",
+      "tier": 2,
+      "rotation": 90,
+      "x": 21,
+      "y": 8,
+      "z": 15
+    },
+    {
+      "name": "steelgymbase",
+      "type": "trainer",
+      "tier": 1,
+      "rotation": 0,
+      "x": 22,
+      "y": 14,
+      "z": 18
+    },
+    {
+      "name": "steelgymleader",
+      "type": "trainer",
+      "tier": 0,
+      "rotation": 0,
+      "x": 15,
+      "y": 15,
+      "z": 10,
+      "drops": [ "pixelmon:item.IronBall" ]
+    }
+  ],
+  "pokemon": [
+    {
+      "name": "Scizor",
+      "sets": [
+        {
+          "move1": [ "Iron Head" ],
+          "move2": [ "U-Turn" ],
+          "move3": [ "Bullet Punch" ],
+          "move4": [ "Aerial Ace" ],
+          "ability": [ "Technician" ],
+          "heldItem": [ "pixelmon:item.RazorClaw" ],
+          "nature": [ "Adamant" ],
+          "evAtk": 252,
+          "evSpeed": 252,
+          "evHP": 4
+        }
+      ]
+    },
+    {
+      "name": "Metagross",
+      "sets": [
+        {
+          "move1": [ "Ice Punch" ],
+          "move2": [ "Meteor Mash" ],
+          "move3": [ "Bullet Punch" ],
+          "move4": [ "Earthquake" ],
+          "ability": [ "Clear Body" ],
+          "heldItem": [ "pixelmon:item.ZoomLens" ],
+          "nature": [ "Adamant" ],
+          "evAtk": 252,
+          "evSpDef": 252,
+          "evHP": 4
+        }
+      ]
+    },
+    {
+      "name": "Magnemite",
+      "maxLevel": 29,
+      "sets": [
+        {
+          "move1": [ "Magnet Rise" ],
+          "move2": [ "Thunderbolt" ],
+          "move3": [ "Flash Cannon" ],
+          "move4": [ "Hidden Power Psychic" ],
+          "ability": [ "Analytic" ],
+          "heldItem": [ "pixelmon:item.WiseGlasses" ],
+          "nature": [ "Modest" ],
+          "evSpAtk": 252,
+          "evSpDef": 252,
+          "evHP": 4
+        }
+      ]
+    },
+    {
+      "name": "Magneton",
+      "minLevel": 30,
+      "maxLevel": 30,
+      "sets": [
+        {
+          "move1": [ "Magnet Rise" ],
+          "move2": [ "Thunderbolt" ],
+          "move3": [ "Flash Cannon" ],
+          "move4": [ "Hidden Power Water" ],
+          "ability": [ "Analytic" ],
+          "heldItem": [ "pixelmon:item.WiseGlasses" ],
+          "nature": [ "Modest" ],
+          "evSpAtk": 252,
+          "evSpDef": 252,
+          "evHP": 4
+        }
+      ]
+    },
+    {
+      "name": "Magnezone",
+      "minLevel": 31,
+      "sets": [
+        {
+          "move1": [ "Magnet Rise" ],
+          "move2": [ "Thunderbolt" ],
+          "move3": [ "Flash Cannon" ],
+          "move4": [ "Tri Attack" ],
+          "ability": [ "Analytic" ],
+          "heldItem": [ "pixelmon:item.WiseGlasses" ],
+          "nature": [ "Modest" ],
+          "evSpAtk": 252,
+          "evSpDef": 252,
+          "evHP": 4
+        }
+      ]
+    },
+    {
+      "name": "Empoleon",
+      "minLevel": 36,
+      "sets": [
+        {
+          "move1": [ "Surf" ],
+          "move2": [ "Ice Beam" ],
+          "move3": [ "Flash Cannon" ],
+          "move4": [ "Grass Knot" ],
+          "ability": [ "Torrent" ],
+          "heldItem": [ "pixelmon:item.QuickClaw" ],
+          "nature": [ "Modest" ],
+          "evSpAtk": 252,
+          "evSpeed": 252,
+          "evHP": 4
+        }
+      ]
+    },
+    {
+      "name": "Steelix",
+      "sets": [
+        {
+          "move1": [ "Earthquake" ],
+          "move2": [ "Heavy Slam" ],
+          "move3": [ "Thunder Fang" ],
+          "move4": [ "Crunch" ],
+          "ability": [ "Sheer Force" ],
+          "heldItem": [ "pixelmon:item.Life_Orb" ],
+          "nature": [ "Modest" ],
+          "evDef": 252,
+          "evSpDef": 252,
+          "evHP": 4
+        }
+      ]
+    },
+    {
+      "name": "Skarmory",
+      "sets": [
+        {
+          "move1": [ "Brave Bird" ],
+          "move2": [ "Rock Slide" ],
+          "move3": [ "Secret Power" ],
+          "move4": [ "Iron Head" ],
+          "ability": [ "Sturdy" ],
+          "heldItem": [ "pixelmon:item.RockyHelmet" ],
+          "nature": [ "Modest" ],
+          "evSpeed": 252,
+          "evAtk": 252,
+          "evHP": 4
+        }
+      ]
+    },
+    {
+      "name": "Bastiodon",
+      "minLevel": 30,
+      "sets": [
+        {
+          "move1": [ "Thunder" ],
+          "move2": [ "Blizzard" ],
+          "move3": [ "Hyper Beam" ],
+          "move4": [ "Flash Cannon" ],
+          "ability": [ "Analytic" ],
+          "heldItem": [ "pixelmon:item.ZoomLens" ],
+          "nature": [ "Modest" ],
+          "evSpAtk": 252,
+          "evSpDef": 252,
+          "evHP": 4
+        }
+      ]
+    }
+  ]
+}

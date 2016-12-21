@@ -1,0 +1,246 @@
+{
+  "npcs": [
+    {
+      "name": "flyinggymintro",
+      "type": "chat",
+      "x": 16,
+      "y": 3,
+      "z": 8
+    },
+    {
+      "name": "flyinggymbase",
+      "type": "trainer",
+      "tier": 3,
+      "rotation": 90,
+      "x": 21,
+      "y": 10,
+      "z": 13
+    },
+    {
+      "name": "flyinggymbase",
+      "type": "trainer",
+      "tier": 3, 
+      "rotation": 90,
+      "x": 26,
+      "y": 11,
+      "z": 18
+    },
+    {
+      "name": "flyinggymbase",
+      "type": "trainer",
+      "tier": 2, 
+      "rotation": 270,
+      "x": 19,
+      "y": 14,
+      "z": 24
+    },
+    {
+      "name": "flyinggymbase",
+      "type": "trainer",
+      "tier": 2, 
+      "rotation": 270,
+      "x": 14,
+      "y": 16,
+      "z": 25
+    },
+    {
+      "name": "flyinggymbase",
+      "type": "trainer",
+      "tier": 1, 
+      "rotation": 270,
+      "x": 9,
+      "y": 17,
+      "z": 23
+    },
+    {
+      "name": "flyinggymbase",
+      "type": "trainer",
+      "tier": 1, 
+      "rotation": 0,
+      "x": 10,
+      "y": 18,
+      "z": 17
+    },
+    {
+      "name": "flyinggymleader",
+      "type": "trainer",
+      "tier": 0,
+      "rotation": 180,
+      "x": 16,
+      "y": 27,
+      "z": 21,
+      "drops": [ "pixelmon:item.SharpBeak" ]
+    }
+  ],
+  "pokemon": [
+    {
+      "name": "Pidgeotto",
+      "maxLevel": 35,
+      "sets": [
+        {
+          "move1": [ "Fly" ],
+          "move2": [ "Roost" ],
+          "move3": [ "Steel Wing" ],
+          "move4": [ "U-turn" ],
+          "ability": [ "Tangled Feet" ],
+          "heldItem": [ "pixelmon:item.Leftovers" ],
+          "nature": ["Jolly", "Adamant"],
+          "evAtk": 252,
+          "evSpeed": 252
+        }
+      ]
+    },
+    {
+      "name": "Pidgeot",
+      "minLevel": 36,
+      "sets": [
+        {
+          "move1": [ "Fly" ],
+          "move2": [ "Roost" ],
+          "move3": [ "Steel Wing" ],
+          "move4": [ "Defog" ],
+          "ability": [ "Tangled Feet" ],
+          "heldItem": [ "pixelmon:item.Leftovers" ],
+          "nature": ["Jolly", "Adamant"],
+          "evAtk": 252,
+          "evSpeed": 252
+        }
+      ]
+    },
+    {
+      "name": "Spearow",
+      "maxLevel": 20,
+      "sets": [
+        {
+          "move1": [ "Aerial Ace" ],
+          "move2": [ "Drill Peck" ],
+          "move3": [ "Pursuit" ],
+          "move4": [ "Quick Attack" ],
+          "ability": [ "Keen Eye" ],
+          "heldItem": [ "pixelmon:item.Leftovers" ],
+          "nature": ["Jolly", "Adamant"],
+          "evAtk": 252,
+          "evSpeed": 252
+        }
+      ]
+    },
+    {
+      "name": "Fearow",
+      "minLevel": 20,
+      "sets": [
+        {
+          "move1": [ "Drill Run" ],
+          "move2": [ "Roost" ],
+          "move3": [ "Pluck" ],
+          "move4": [ "Whirlwind" ],
+          "ability": [ "Keen Eye" ],
+          "heldItem": [ "pixelmon:item.Leftovers" ],
+          "nature": ["Jolly", "Adamant"],
+          "evAtk": 252,
+          "evSpeed": 252
+        }
+      ]
+    },
+    {
+      "name": "Crobat",
+      "minLevel": 23,
+      "sets": [
+        {
+          "move1": [ "Acrobatics", "Brave Bird" ],
+          "move2": [ "U-turn", "Toxic" ],
+          "move3": [ "Defog", "Taunt" ],
+          "move4": [ "Roost" ],
+          "ability": [ "Infiltrator" ],
+          "heldItem": [ "pixelmon:item.BlackSludge" ],
+          "nature": ["Jolly", "Adamant"],
+          "evAtk": 252,
+          "evSpeed": 252
+        }
+      ]
+    },
+    {
+      "name": "Skarmory",
+      "minLevel": 28,
+      "sets": [
+        {
+          "move1": [ "Steel Wing" ],
+          "move2": [ "Spikes" ],
+          "move3": [ "Night Slash" ],
+          "move4": [ "Stealth Rock" ],
+          "ability": [ "Sturdy" ],
+          "heldItem": [ "pixelmon:item.Leftovers" ],
+          "nature": ["Impish", "Sassy"],
+          "evDef": 252,
+          "evSpDef": 252
+        }
+      ]
+    },
+    {
+      "name": "Braviary",
+      "minLevel": 54,
+      "maxLevel": 60,
+      "sets": [
+        {
+          "move1": [ "Substitute" ],
+          "move2": [ "Bulk Up" ],
+          "move3": [ "Roost" ],
+          "move4": [ "Brave Bird" ],
+          "ability": [ "Defiant" ],
+          "heldItem": [ "pixelmon:item.Leftovers" ],
+          "nature": ["Jolly", "Adamant"],
+          "evAtk": 252,
+          "evSpeed": 252
+        }
+      ]
+    },
+    {
+      "name": "Gyarados",
+      "minLevel": 20,
+      "sets": [
+        {
+          "move1": [ "Waterfall" ],
+          "move2": [ "Stone Edge", "Return" ],
+          "move3": [ "Dragon Dance" ],
+          "move4": [ "Protect" ],
+          "ability": [ "Intimidate" ],
+          "heldItem": [ "pixelmon:item.Life_Orb" ],
+          "nature": ["Jolly", "Adamant"],
+          "evAtk": 252,
+          "evSpeed": 252
+        }
+      ]
+    },
+    {
+      "name": "Dodrio",
+      "minLevel": 28,
+      "sets": [
+        {
+          "move1": [ "Brave Bird" ],
+          "move2": [ "Return" ],
+          "move3": [ "Knock Off" ],
+          "move4": [ "Pursuit", "Quick Attack" ],
+          "ability": [ "Early Bird" ],
+          "heldItem": [ "pixelmon:item.Life_Orb", "pixelmon:item.Choice_Band" ],
+          "nature": ["Jolly", "Adamant"],
+          "evAtk": 252,
+          "evSpeed": 252
+        }
+      ]
+    },
+    {
+      "name": "Unown",
+      "maxLevel": 40,
+      "sets": [
+        {
+          // Only can have one move, so no other moveslots are present.
+          "move1": [ "Hidden Power Ice", "Hidden Power Electric" ],
+          "heldItem": [ "pixelmon:item.Choice_Specs", "pixelmon:item.Choice_Scarf", "pixelmon:item.FocusSash" ],
+          "nature": [ "Modest", "Timid" ],
+          "evSpAtk": 252,
+          "evSpDef": 4,
+          "evSpeed": 252
+        }
+      ]
+    }
+  ]
+}
