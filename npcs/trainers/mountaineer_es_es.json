@@ -47,8 +47,8 @@
     "chat": [
         {
             "opening": "Mis Pokémon y yo estamos haciendo una carrera.",
-            "win": "Deberías de probar. Es bueno para tus Pokémon.",
-            "lose": "Ya no tengo más ganas de correr."
+            "win": "Deberías de probarlo. Es bueno para los Pokémon.",
+            "lose": "Ya no tengo ganas de correr."
         },
         {
             "opening": "¡Estas montañas están repletas de Pokémon!",
@@ -56,14 +56,14 @@
             "lose": "Aunque necesitan entrenar un poco."
         },
         {
-            "opening": "¿Puedes escalar y combatir?",
+            "opening": "¿Puedes escalar y a la vez combatir?",
             "win": "No tengas miedo a las alturas.",
             "lose": "Casi me caigo."
         },
         {
             "opening": "Nada como una batalla del rey de la montaña.",
-            "win": "Soy el rey de esta montaña.",
-            "lose": "Eres el rey de esta montaña."
+            "win": "Yo soy el rey de esta montaña.",
+            "lose": "Tú eres el rey de esta montaña."
         }
     ]
 }

@@ -72,14 +72,14 @@
             "lose": "¡No!, ¡mis maravillosos Pokémon!"
         },
         {
-		    "opening": "Los Pokémon de tipo Volador son impresionantes, pensaba que lo sabías.",
+		    "opening": "Los Pokémon de tipo Volador son impresionantes, para que lo sepas.",
             "win": "Como viste, ¡los Pokémon de tipo Volador son superiores!",
             "lose": "Oh queridos. Oh bueno, ¡me iré volando!"
         },
         {
             "opening": "Me encantaría ver que tipo de Pokémon tienes.",
             "win": "Los Pokémon voladores son muy fuertes. No es de extrañar que perdieses.",
-            "lose": "Supongo que otros tipos de Pokémon son mejores."
+            "lose": "Supongo que hay otro tipo de Pokémon mejores."
         }
     ]
 }

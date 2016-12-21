@@ -95,18 +95,18 @@
 	"chat": [
         {
             "opening": "¿Quiereh luchar?",
-            "win": "¡Sii! ¡Parece que he ganado!",
+            "win": "¡Síí! ¡Parece que he ganado!",
             "lose": "Tieneh algún Pokémon mu' bueno por ahí."
         },
         {
             "opening": "Nada como una batalla Pokémon despuéh de un duro día de curro.",
             "win": "¡Perfecto! ¡Un trabajoh bien hecho, hora de irse a dormir!",
-            "lose": "Has ganado por que estoy muy cansao."
+            "lose": "Ganasteh por que estoy muy cansao."
         },
         {
-            "opening": "Estoy agotado, mira como pastan los Miltank. ¡Hora de luchar!",
+            "opening": "Eh agotador, mirah como pastan los Miltank. ¡Hora de luchar!",
             "win": "¡Debería de hacer eso más amenudo!",
-            "lose": "No debería haber parado de mirarlas."
+            "lose": "No debería habeh parado de mirar."
         }
     ]
 }
