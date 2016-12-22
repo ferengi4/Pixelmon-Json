@@ -25,7 +25,7 @@
         {
             "lines": [
                 {
-                    "text": "¿Quiéres una demostración? ¡Ha! Primero tienes que cruzar mi mano con dinero."
+                    "text": "¿Quiéres una demostración? ¡Ja! Primero tienes que pasar tu mano con dinero."
                 },
                 {
                     "text": "¡Ya puedo ver que estás metido en problemas!"
@@ -38,7 +38,7 @@
                     "text": "Puedo leer tus pensamientos. Están llenos de Pokémon, y nada más que Pokémon."
                 },
                 {
-                    "text": "En realidad no es nada interesante para mí. ¡Fuera de aquí!"
+                    "text": "En realidad no es nada interesante para mí. ¡Lárgate!"
                 }
             ]
         },
@@ -56,10 +56,10 @@
 
             "lines": [
                 {
-                    "text": "¡Estás ante el adivino más grande del mundo! Pregunta, ¡y te lo revelaré todo!"
+                    "text": "¡Estás ante la mejor adivina del mundo! Pregunta, ¡y te lo revelaré todo!"
                 },
                 {
-                    "text": "¿Qué Pokémon deberías utilizar en tu siguiente combate? ¿Cómo podría saber eso? ¡Lárgate de aquí!"
+                    "text": "¿Qué que Pokémon deberías utilizar en tu siguiente combate? ¿Cómo podría saber eso? ¡Lárgate de aquí!"
                 }
             ]
         }

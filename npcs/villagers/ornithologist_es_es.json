@@ -15,7 +15,7 @@
             "name": "Geoffrey Twirp"
         },
         {
-            "name": "Bertram Birdlover"
+            "name": "Bertram Amante de Pájaros"
         },
         {
             "name": "Profesor Pájaro"
@@ -28,7 +28,7 @@
                     "text": "¡Ah, no hay nada como observar un Spearow en pleno vuelo!"
                 },
                 {
-                    "text": "¡Ojalá me hubiese acordado de traer algo de semillas para pájaros!"
+                    "text": "¡Ojalá me hubiese acordado de traer semillas para pájaros!"
                 }
             ]
         },
@@ -45,10 +45,10 @@
         {
             "lines": [
                 {
-                    "text": "Aveces me tengo que esconder durante semanas en los bosques sólo para poder ver un Noctowl."
+                    "text": "Aveces me escondo durante semanas en los bosques sólo para poder ver un Noctowl."
                 },
                 {
-                    "text": "Es un poco incómodo, dormir en el suelo. Oh bueno, ¡alguien tiene que hacerlo!"
+                    "text": "Es un poco incómodo, dormir en el suelo. Oh bueno, ¡ pero alguien tiene que hacerlo!"
                 }
             ]
         },
@@ -65,10 +65,10 @@
         {
             "lines": [
                 {
-                    "text": "Disculpe, ¿tienes algo de pan? Me he quedado sin semillas de pájaros intentando atraer a un Starly."
+                    "text": "Disculpe, ¿tiene algo de pan? Me he quedado sin semillas de pájaros intentando atraer a un Starly."
                 },
                 {
-                    "text": "Mis prismáticos son los más buenos disponibles. ¡Puedo ver a un Starly enano desde 16 Km de distancia!"
+                    "text": "Mis prismáticos son de lo mejor ahora mismo disponible. ¡Puedo ver a un Starly enano desde 16 Km de distancia!"
                 }
             ]
         }

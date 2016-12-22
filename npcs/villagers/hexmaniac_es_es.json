@@ -12,7 +12,7 @@
             "name": "Gyta"
         },
         {
-            "name": "Samantha"
+            "name": "Samanta"
         },
         {
             "name": "Piper"
@@ -28,7 +28,7 @@
                     "text": "Aw mira, mi Gastly me ha maldecido."
                 },
                 {
-                    "text": "Esperaba un dolor desgarrador del alma, pero sólo me hace cosquillas."
+                    "text": "Esperaba un dolor desgarrador en el alma, pero sólo me hace cosquillas."
                 }
             ]
         },
@@ -55,10 +55,10 @@
         {
             "lines": [
                 {
-                    "text": "Mis amigos no se creen que puedo hacer mágia oscura."
+                    "text": "Mis amigos no creen que pueda hacer mágia oscura."
                 },
                 {
-                    "text": "Nunca me creían, de ninguna manera. Ahora ya no tengo ningún amigo."
+                    "text": "Nunca me creyeron. De todos modos, ahora ya no tengo amigos."
                 }
             ]
         }

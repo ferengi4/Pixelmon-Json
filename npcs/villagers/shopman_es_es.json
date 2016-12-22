@@ -28,7 +28,7 @@
                     "text": "Hola, ¿te gustaría comprar brócoli fresco?"
                 },
                 {
-                    "text": "¿No te gusta el brócoli? Bueno, ¡nunca antes había escuchado algo parecido!"
+                    "text": "¿No te gusta el brócoli? Vaya, ¡nunca antes había escuchado algo parecido!"
                 }
             ]
         },
@@ -45,7 +45,7 @@
         {
             "lines": [
                 {
-                    "text": "Bonito día , ¿no? ¿Te gustaría comprar algunos platanos?"
+                    "text": "Bonito día, ¿no? ¿Te gustaría comprar algún platano?"
                 },
                 {
                     "text": "Tengo que decirte, ¡que los platanos son comida para el cerebro! ¡Por eso soy tan inteligente!"
