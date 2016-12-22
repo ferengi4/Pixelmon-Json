@@ -246,11 +246,7 @@
         "name": "Blacksmith",
         "rarity": 20,
         "textures": [ "blacksmith" ]
-      } /*,
-            {
-                "name": "Mountaineer",
-                "textures":[ "mountaineer" ]
-            }*/
+      }
     ],
     "list": [
       {
@@ -340,6 +336,60 @@
   ],
   "gymnpcs": [
     {
+      "name": "electricgymintro"
+    },
+    {
+      "name": "electricgymbase"
+    },
+    {
+      "name": "electricgymleader"
+    },
+    {
+      "name": "firegymintro"
+    },
+    {
+      "name": "firegymbase"
+    },
+    {
+      "name": "firegymleader"
+    },
+    {
+      "name": "firegym2intro"
+    },
+    {
+      "name": "firegym2base"
+    },
+    {
+      "name": "firegym2leader"
+    },
+    {
+      "name": "flyinggymintro"
+    },
+    {
+      "name": "flyinggymbase"
+    },
+    {
+      "name": "flyinggymleader"
+    },
+    {
+      "name": "flyinggym2intro"
+    },
+    {
+      "name": "flyinggym2base"
+    },
+    {
+      "name": "flyinggym2leader"
+    },
+    {
+      "name": "grassbuggymintro"
+    },
+    {
+      "name": "grassbuggymbase"
+    },
+    {
+      "name": "grassbuggymleader"
+    },
+    {
       "name": "grassgymintro"
     },
     {
@@ -347,6 +397,87 @@
     },
     {
       "name": "grassgymleader"
+    },
+    {
+      "name": "grassgym2intro"
+    },
+    {
+      "name": "grassgym2base"
+    },
+    {
+      "name": "grassgym2leader"
+    },
+    {
+      "name": "groundgymintro"
+    },
+    {
+      "name": "groundgymbase"
+    },
+    {
+      "name": "groundgymleader"
+    },
+    {
+      "name": "icegymintro"
+    },
+    {
+      "name": "icegymbase"
+    },
+    {
+      "name": "icegymleader"
+    },
+    {
+      "name": "icegym2intro"
+    },
+    {
+      "name": "icegym2base"
+    },
+    {
+      "name": "icegym2leader"
+    },
+    {
+      "name": "psychicgymintro"
+    },
+    {
+      "name": "psychicgymbase"
+    },
+    {
+      "name": "psychicgymleader"
+    },
+    {
+      "name": "rockgymintro"
+    },
+    {
+      "name": "rockgymbase"
+    },
+    {
+      "name": "rockgymleader"
+    },
+    {
+      "name": "steelgymintro"
+    },
+    {
+      "name": "steelgymbase"
+    },
+    {
+      "name": "steelgymleader"
+    },
+    {
+      "name": "watergymintro"
+    },
+    {
+      "name": "watergymbase"
+    },
+    {
+      "name": "watergymleader"
+    },
+    {
+      "name": "watergym2intro"
+    },
+    {
+      "name": "watergym2base"
+    },
+    {
+      "name": "watergym2leader"
     }
   ]
 }

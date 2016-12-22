@@ -1,0 +1,64 @@
+{
+    "data": {
+        "trainerType": "Policeman",
+        "minLevel": 10,
+        "maxLevel": 40,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 3,
+        "winnings": 40
+    },
+    "pokemon": [
+        {
+            "name": "Growlithe"
+        },
+        {
+            "name": "Arcanine"
+        },
+        {
+            "name": "Snubbull"
+        },
+        {
+            "name": "Granbull"
+        },
+        {
+            "name": "Houndour"
+        },
+        {
+            "name": "Houndoom"
+        }
+    ],
+    "names": [
+        {
+            "name": "隊長 班尼"
+        },
+        {
+            "name": "檢查員 肯尼"
+        },
+        {
+            "name": "副手 萊尼"
+        },
+        {
+            "name": "下士 溫尼"
+        },
+        {
+            "name": "中尉 羅尼"
+        }
+    ],
+	"chat": [
+        {
+            "opening": "你現在是在挑釁我嗎，死老百姓？",
+            "win": "勝利站在法律這邊！",
+            "lose": "你最好不要給我跑！"
+        },
+        {
+            "opening": "啊，來了！我正在處理一個案件！",
+            "win": "我的手銬在哪裡？",
+            "lose": "做得好，孩子。我會賞你一個甜甜圈。"
+        },
+        {
+            "opening": "哎喲！嘿！現在！你要留下案底了！",
+            "win": "這是給你的教訓。",
+            "lose": "我需要支援，聽到請回答。"
+        }
+    ]
+}

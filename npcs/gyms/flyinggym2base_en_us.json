@@ -1,0 +1,22 @@
+{
+  "npctype": "trainer",
+  "winnings": 32,
+
+  "skins": [
+    {
+      "filename": "lass.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Trainer Girl"
+    }
+  ],
+  "chat": [
+    {
+      "opening": "You'll never reach the top!",
+      "win": "Woohoo! What's the matter? Can't soar to victory?",
+      "lose": "You only won out of pure luck!"
+    }
+  ]
+}

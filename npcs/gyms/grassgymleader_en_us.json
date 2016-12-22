@@ -4,7 +4,7 @@
 
   "skins": [
     {
-      "filename": "pokefan_m.png"
+      "filename": "grassleader1.png"
     }
   ],
   "names": [
@@ -14,9 +14,9 @@
   ],
   "chat": [
     {
-      "opening": "You made it to me.  Don't think i'll take it easy on you!",
+      "opening": "You made it to me. Don't think I'll take it easy on you!",
       "win": "Ha! Don't come back.",
-      "lose": "You got lucky kid!"
+      "lose": "You got lucky, kid!"
     }
   ]
 }

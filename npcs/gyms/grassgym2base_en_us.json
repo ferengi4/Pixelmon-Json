@@ -1,0 +1,22 @@
+{
+  "npctype": "trainer",
+  "winnings": 32,
+
+  "skins": [
+    {
+      "filename": "bugcatcher3.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Trainer Boy"
+    }
+  ],
+  "chat": [
+    {
+      "opening": "Don't you just love the air in here?",
+      "win": "A fresh and easy win!",
+      "lose": "The air isn't so good anymore now that I stink..."
+    }
+  ]
+}

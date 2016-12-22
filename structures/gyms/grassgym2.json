@@ -1,0 +1,216 @@
+{
+  "npcs": [
+    {
+      "name": "grassgym2intro",
+      "type": "chat",
+      "x": 10,
+      "y": 1,
+      "z": 9
+    },
+    {
+      "name": "grassgym2base",
+      "type": "trainer",
+      "tier": 3,
+      "rotation": 90,
+      "x": 19,
+      "y": 1,
+      "z": 18
+    },
+    {
+      "name": "grassgym2base",
+      "type": "trainer",
+      "tier": 2, 
+      "rotation": 0,
+      "x": 23,
+      "y": 1,
+      "z": 12
+    },
+    {
+      "name": "grassgym2base",
+      "type": "trainer",
+      "tier": 1, 
+      "rotation": 180,
+      "x": 30,
+      "y": 1,
+      "z": 11
+    },
+    {
+      "name": "grassgym2leader",
+      "type": "trainer",
+      "tier": 0,
+      "rotation": 90,
+      "x": 44,
+      "y": 2,
+      "z": 11,
+      "drops": [ "pixelmon:item.BigRoot" ]
+    }
+  ],
+  "pokemon": [
+    {
+      "name": "Bulbasaur",
+      "maxLevel": 15,
+      "sets": [
+        {
+          "move1": [ "Sleep Powder" ],
+          "move2": [ "Growth" ],
+          "move3": [ "Giga Drain" ],
+          "move4": [ "Sludge Bomb" ],
+          "ability": [ "Chlorophyll" ],
+          "heldItem": [ "pixelmon:item.Eviolite" ],
+          "nature": ["Timid"],
+          "evSpAtk": 240,
+          "evSpeed": 240
+        }
+      ]
+    },
+     {
+      "name": "Ivysaur",
+      "minLevel": 16,
+      "maxLevel": 31,
+      "sets": [
+        {
+          "move1": [ "Vine Whip" ],
+          "move2": [ "Growth" ],
+          "move3": [ "Giga Drain" ],
+          "move4": [ "Sludge Bomb" ],
+          "ability": [ "Chlorophyll" ], 
+          "heldItem": [ "pixelmon:item.Eviolite" ], 
+          "nature": ["Timid"],
+          "evSpAtk": 240,
+          "evSpeed": 240
+        }
+      ]
+    },
+     {
+      "name": "Venusaur",
+      "minLevel": 32,
+      "sets": [
+        {
+          "move1": [ "Leech Seed" ],
+          "move2": [ "Growth" ],
+          "move3": [ "Giga Drain" ],
+          "move4": [ "Sludge Bomb" ],
+          "ability": [ "Chlorophyll" ], 
+          "heldItem": [ "pixelmon:item.Eviolite" ],
+          "nature": ["Timid"],
+          "evSpAtk": 240,
+          "evSpeed": 240
+        },
+        {
+          "move1": [ "Sleep Powder" ],
+          "move2": [ "Sludge Bomb" ],
+          "move3": [ "Giga Drain" ],
+          "move4": [ "Leech Seed" ],
+          "ability": [ "Thick Fat" ],
+          "heldItem": [ "pixelmon:item.BigRoot" ],
+          "nature": ["Timid"],
+          "evSpDef": 252,
+          "evDef": 252
+        }
+      ]
+    },
+     {
+      "name": "Grovyle",
+      "minLevel": 16,
+      "maxLevel": 31,
+      "sets": [
+        {
+          "move1": [ "Leaf Blade" ],
+          "move2": [ "X-Scissor" ],
+          "move3": [ "Pursuit" ],
+          "move4": [ "Agility" ],
+          "ability": [ "Unburden" ],
+          "heldItem": [ "pixelmon:item.SitrusBerry" ],
+          "nature": ["Timid"],
+          "evSpAtk": 240,
+          "evSpeed": 240
+        }
+      ]
+    },
+     {
+      "name": "Sceptile",
+      "minLevel": 32,
+      "sets": [
+        {
+          "move1": [ "Swords Dance" ],
+          "move2": [ "Acrobatics" ],
+          "move3": [ "Leaf Blade" ],
+          "move4": [ "Earthquake" ],
+          "ability": [ "Unburden" ], 
+          "heldItem": [ "pixelmon:item.Flying_Gem" ], 
+          "nature": ["Adamant"],
+          "evAtk": 252,
+          "evSpeed": 252
+        }
+      ]
+    },
+     {
+      "name": "Breloom",
+      "minLevel": 23,
+      "sets": [
+        {
+          "move1": [ "Low Sweep" ],
+          "move2": [ "Mach Punch" ],
+          "move3": [ "Bullet Seed" ],
+          "move4": [ "Spore", "Stone Edge" ],
+          "ability": [ "Technician" ], 
+          "heldItem": [ "pixelmon:item.Life_Orb" ],
+          "nature": ["Jolly", "Adamant"],
+          "evAtk": 252,
+          "evSpeed": 252,
+          "evHP": 4
+        }
+      ]
+    },
+    {
+      "name": "Shiftry",
+      "minLevel": 32,
+      "sets": [
+        {
+          "move1": [ "Leaf Storm" ],
+          "move2": [ "Sucker Punch" ],
+          "move3": [ "Dark Pulse" ],
+          "move4": [ "Nature Power" ],
+          "ability": [ "Early Bird" ], 
+          "heldItem": [ "pixelmon:item.Life_Orb" ],
+          "nature": ["Rash"],
+          "evAtk": 88,
+          "evSpAtk": 244,
+          "evSpeed": 176
+        }
+      ]
+    },
+    {
+      "name": "Tangela",
+      "minLevel": 21,
+      "sets": [
+        {
+          "move1": [ "Giga Drain" ],
+          "move2": [ "Sleep Powder" ],
+          "move3": [ "Synthesis" ],
+          "move4": [ "Hidden Power Fire" ],
+          "ability": [ "Regenerator" ],
+          "heldItem": [ "pixelmon:item.Eviolite" ],
+          "nature": ["Bold"],
+          "evHP": 252,
+          "evDef": 252,
+          "evSpeed": 4
+        }
+      ]
+    },
+    {
+      "name": "Unown",
+      "maxLevel": 40,
+      "sets": [
+        {
+          "move1": [ "Hidden Power Psychic", "Hidden Power Ice", "Hidden Power Fire" ],
+          "heldItem": [ "pixelmon:item.Choice_Specs", "pixelmon:item.Choice_Scarf", "pixelmon:item.FocusSash" ],
+          "nature": [ "Modest", "Timid" ],
+          "evSpAtk": 252,
+          "evSpDef": 4,
+          "evSpeed": 252
+        }
+      ]
+    }
+  ]
+}

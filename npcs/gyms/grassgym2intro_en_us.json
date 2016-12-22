@@ -1,0 +1,28 @@
+{
+  "npctype": "chat",
+  "skins": [
+    {
+      "filename": "schoolgirl.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Madison"
+    }
+  ],
+  "chat": [
+    {
+      "lines": [
+        {
+          "text": "Welcome to the Meadow Gym."
+        },
+        {
+          "text": "Our Gym Leader loves fields of green as far as the eye can see!"
+        },
+        {
+          "text": "Be careful when traveling through the meadow; Trainers love to lurk in the grass..."
+        }
+      ]
+    }
+  ]
+}
