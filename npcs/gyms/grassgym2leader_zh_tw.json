@@ -1,0 +1,22 @@
+{
+  "npctype": "trainer",
+  "winnings": 52,
+
+  "skins": [
+    {
+      "filename": "grassleader2.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "阿羅耶"
+    }
+  ],
+  "chat": [
+    {
+      "opening": "你穿過草地來到這裡，最後只會輸給我！",
+      "win": "我贏了！現在，給我滾吧，我有其他更強的挑戰者要對付。",
+      "lose": "我不敢相信你打贏我..."
+    }
+  ]
+}

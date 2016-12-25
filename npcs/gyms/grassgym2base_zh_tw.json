@@ -1,0 +1,22 @@
+{
+  "npctype": "trainer",
+  "winnings": 32,
+
+  "skins": [
+    {
+      "filename": "bugcatcher3.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "訓練家男孩"
+    }
+  ],
+  "chat": [
+    {
+      "opening": "你應該不只是喜歡這裡的空氣對吧？",
+      "win": "擁有清新的空氣容易獲勝！",
+      "lose": "現在的空氣不是很好，我現在是臭的..."
+    }
+  ]
+}
