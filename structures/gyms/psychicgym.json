@@ -1,0 +1,255 @@
+{
+  "npcs": [
+    {
+      "name": "psychicgymintro",
+      "type": "chat",
+      "x": 27,
+      "y": 2,
+      "z": 20
+    },
+    {
+      "name": "psychicgymbase",
+      "type": "trainer",
+      "tier": 3, //tier from 3-0, 3 lowest, 0 = leader
+      "rotation": 0,
+      "x": 15,
+      "y": 2,
+      "z": 13
+    },
+    {
+      "name": "psychicgymbase",
+      "type": "trainer",
+      "tier": 3, 
+      "rotation": 270,
+      "x": 16,
+      "y": 2,
+      "z": 19
+    },
+    {
+      "name": "psychicgymbase",
+      "type": "trainer",
+      "tier": 2, 
+      "rotation": 90,
+      "x": 18,
+      "y": 7,
+      "z": 23
+    },
+    {
+      "name": "psychicgymbase",
+      "type": "trainer",
+      "tier": 2, 
+      "rotation": 270,
+      "x": 21,
+      "y": 7,
+      "z": 15
+    },
+    {
+      "name": "psychicgymbase",
+      "type": "trainer",
+      "tier": 1, 
+      "rotation": 0,
+      "x": 25,
+      "y": 12,
+      "z": 8
+    },
+    {
+      "name": "psychicgymbase",
+      "type": "trainer",
+      "tier": 1, 
+      "rotation": 90,
+      "x": 14,
+      "y": 12,
+      "z": 32
+    },
+    {
+      "name": "psychicgymbase",
+      "type": "trainer",
+      "tier": 1, 
+      "rotation": 180,
+      "x": 30,
+      "y": 12,
+      "z": 27
+    },
+    {
+      "name": "psychicgymleader",
+      "type": "trainer",
+      "tier": 0,
+      "rotation": 270,
+      "x": 13,
+      "y": 18,
+      "z": 19,
+      "drops": [ "pixelmon:item.Prism_Scale" ]
+    }
+  ],
+  "pokemon": [
+    {
+      "name": "Kadabra",
+      "minLevel": 16,
+      "sets": [
+        {
+          "move1": [ "Psyshock" ],
+          "move2": [ "Shadow Ball" ],
+          "move3": [ "Hidden Power Fighting" ],
+          "move4": [ "Taunt", "Substitute" ],
+          "ability": [ "Magic Guard" ],
+          "heldItem": [ "pixelmon:item.Life_Orb" ],
+          "nature": ["Timid"],
+          "evSpAtk": 252,
+          "evSpeed": 252,
+          "evHP": 4
+        }
+      ]
+    },
+    {
+      "name": "Alakazam",
+      "minLevel": 16,
+      "sets": [
+        {
+          "move1": [ "Psychic" ],
+          "move2": [ "Focus Blast" ],
+          "move3": [ "Shadow Ball", "Signal Beam" ],
+          "move4": [ "Encore", "Thunder Wave" ],
+          "ability": [ "Magic Guard" ],
+          "heldItem": [ "pixelmon:item.Life_Orb", "pixelmon:item.FocusSash" ],
+          "nature": ["Timid"],
+          "evSpAtk": 252,
+          "evSpeed": 252,
+          "evSpDef": 4
+        }
+      ]
+    },
+     {
+      "name": "Drowzee",
+      "maxLevel": 25,
+      "sets": [
+        {
+          "move1": [ "Zen Headbutt", "Psycho Cut" ],
+          "move2": [ "Ice Punch" ],
+          "move3": [ "Thunder Punch" ],
+          "move4": [ "Drain Punch" ],
+          "ability": [ "Insomnia" ],
+          "heldItem": [ "pixelmon:item.Choice_Scarf" ],
+          "nature": ["Jolly"],
+          "evAtk": 212,
+          "evSpeed": 180,
+          "evHP": 116
+        }
+      ]
+    },
+     {
+      "name": "Hypno",
+      "minLevel": 26,
+      "sets": [
+        {
+          "move1": [ "Wish" ],
+          "move2": [ "Protect" ],
+          "move3": [ "Thunder Wave", "Toxic" ],
+          "move4": [ "Foul Play", "Seismic Toss" ],
+          "ability": [ "Insomnia" ],
+          "heldItem": [ "pixelmon:item.Leftovers" ],
+          "nature": ["Calm"],
+          "evDef": 52,
+          "evSpDef": 204,
+          "evHP": 252
+        }
+      ]
+    },
+     {
+      "name": "MrMime",
+      "minLevel": 30,
+      "sets": [
+        {
+          "move1": [ "Baton Pass" ],
+          "move2": [ "Nasty Plot" ],
+          "move3": [ "Substitute", "Encore" ],
+          "move4": [ "Psychic" ],
+          "ability": [ "Filter" ],
+          "heldItem": [ "pixelmon:item.Leftovers" ],
+          "nature": ["Timid"],
+          "evSpeed": 252,
+          "evSpAtk": 112,
+          "evHP": 144
+        }
+      ]
+    },
+     {
+      "name": "Jynx",
+      "maxLevel": 51,
+      "sets": [
+        {
+          "move1": [ "Lovely Kiss" ],
+          "move2": [ "Nasty Plot" ],
+          "move3": [ "Ice Beam" ],
+          "move4": [ "Substitute", "Focus Blast" ],
+          "ability": [ "Dry Skin" ],
+          "heldItem": [ "pixelmon:item.Leftovers" ],
+          "nature": ["TImid"],
+          "evDef": 4,
+          "evSpDef": 88,
+          "evHP": 200,
+          "evSpeed": 216
+        }
+      ]
+    },
+     {
+      "name": "Espeon",
+      "maxLevel": 51,
+      "sets": [
+        {
+          "move1": [ "Reflect" ],
+          "move2": [ "Light Screen" ],
+          "move3": [ "Psychic", "Psyshock" ],
+          "move4": [ "Baton Pass", "Hidden Power Fire" ],
+          "ability": [ "Magic Bounce" ],
+          "heldItem": [ "pixelmon:item.LightClay" ],
+          "nature": ["Timid"],
+          "evDef": 4,
+          "evSpeed": 252,
+          "evHP": 252
+        },
+        {
+          "move1": [ "Baton Pass" ],
+          "move2": [ "Calm Mind", "Substitute" ],
+          "move3": [ "Stored Power" ],
+          "move4": [ "Hidden Power Fighting" ],
+          "ability": [ "Magic Bounce" ],
+          "heldItem": [ "pixelmon:item.Leftovers" ],
+          "nature": ["Bold"],
+          "evDef": 252,
+          "evSpDef": 4,
+          "evHP": 252
+        },
+        {
+          "move1": [ "Psyshock", "Psychic" ],
+          "move2": [ "Hidden Power Fire" ],
+          "move3": [ "Signal Beam", "Grass Knot" ],
+          "move4": [ "Baton Pass", "Protect" ],
+          "ability": [ "Magic Bounce" ],
+          "heldItem": [ "pixelmon:item.Life_Orb" ],
+          "nature": ["Timid"],
+          "evSpAtk": 252,
+          "evSpeed": 252,
+          "evHP": 4
+        }
+      ]
+    },
+     {
+      "name": "Girafarig",
+      "minLevel": 26,
+      "sets": [
+        {
+          "move1": [ "Baton Pass" ],
+          "move2": [ "Calm Mind" ],
+          "move3": [ "Psychic" ],
+          "move4": [ "Hyper Voice", "Thunderbolt" ],
+          "ability": [ "Sap Sipper" ],
+          "heldItem": [ "pixelmon:item.Leftovers" ],
+          "nature": ["Timid"],
+          "evSpeed": 252,
+          "evSpAtk": 252,
+          "evHP": 4
+        }
+      ]
+    }
+  ]
+}

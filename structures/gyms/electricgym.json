@@ -1,0 +1,195 @@
+{
+  "npcs": [
+    {
+      "name": "electricgymintro",
+      "type": "chat",
+      "x": 27,
+      "y": 1,
+      "z": 6
+    },
+    {
+      "name": "electricgymbase",
+      "type": "trainer",
+      "tier": 3,
+      "rotation": 90,
+      "x": 36,
+      "y": 2,
+      "z": 22
+    },
+    {
+      "name": "electricgymbase",
+      "type": "trainer",
+      "tier": 3, 
+      "rotation": 180,
+      "x": 25,
+      "y": 2,
+      "z": 20
+    },
+    {
+      "name": "electricgymbase",
+      "type": "trainer",
+      "tier": 2, 
+      "rotation": 0,
+      "x": 33,
+      "y": 2,
+      "z": 10
+    },
+    {
+      "name": "electricgymbase",
+      "type": "trainer",
+      "tier": 1, 
+      "rotation": 270,
+      "x": 28,
+      "y": 2,
+      "z": 15
+    },
+    {
+      "name": "electricgymleader",
+      "type": "trainer",
+      "tier": 0,
+      "rotation": 270,
+      "x": 3,
+      "y": 1,
+      "z": 22,
+      "drops": [ "pixelmon:item.LightBall" ]
+    }
+  ],
+  "pokemon": [
+    {
+      "name": "Jolteon",
+      "sets": [
+        {
+          "move1": [ "Volt Switch" ],
+          "move2": [ "Thunderbolt" ],
+          "move3": [ "Shadow Ball" ],
+          "move4": [ "Hyper Voice" ],
+          "ability": [ "Volt Absorb" ],
+          "heldItem": [ "pixelmon:item.Magnet" ],
+          "nature": [ "Timid" ],
+          "evSpAtk": 252,
+          "evSpeed": 252,
+          "evDef": 4
+        }
+      ]
+    },
+    {
+      "name": "Lanturn",
+      "sets": [
+        {
+          "move1": [ "Scald" ],
+          "move2": [ "Thunderbolt" ],
+          "move3": [ "Ice Beam" ],
+          "move4": [ "Soak" ],
+          "ability": [ "Volt Absorb" ],
+          "heldItem": [ "pixelmon:item.Leftovers" ],
+          "nature": [ "Modest" ],
+          "evSpAtk": 252,
+          "evSpDef": 252,
+          "evHP": 4
+        }
+      ]
+    },
+    {
+      "name": "Electivire",
+      "sets": [
+        {
+          "move1": [ "Earthquake" ],
+          "move2": [ "Ice Punch" ],
+          "move3": [ "Cross Chop" ],
+          "move4": [ "Dizzy Punch" ],
+          "ability": [ "Vital Spirit" ],
+          "heldItem": [ "pixelmon:item.SoftSand" ],
+          "nature": [ "Jolly" ],
+          "evAtk": 252,
+          "evSpeed": 252,
+          "evHP": 4
+        }
+      ]
+    },
+    {
+      "name": "Emolga",
+      "sets": [
+        {
+          "move1": [ "U-Turn" ],
+          "move2": [ "Acrobatics" ],
+          "move3": [ "Thunder Wave" ],
+          "move4": [ "Thunderbolt" ],
+          "ability": [ "Static" ],
+          "nature": [ "Hasty" ],
+          "evAtk": 200,
+          "evSpAtk": 200,
+          "evSpeed": 110
+        }
+      ]
+    },
+    {
+      "name": "Mareep",
+      "maxLevel": 14,
+      "sets": [
+        {
+          "move1": [ "Cotton Guard" ],
+          "move2": [ "Thunder Wave" ],
+          "move3": [ "Thunderbolt" ],
+          "move4": [ "Power Gem" ],
+          "ability": [ "Static" ],
+          "heldItem": [ "pixelmon:item.Leftovers" ],
+          "nature": [ "Modest" ],
+          "evSpAtk": 252,
+          "evDef": 252,
+          "evHP": 4
+        }
+      ]
+    },
+    {
+      "name": "Flaaffy",
+      "sets": [
+        {
+          "move1": [ "Hidden Power Water" ],
+          "move2": [ "Thunder" ],
+          "move3": [ "Focus Blast" ],
+          "move4": [ "Power Gem" ],
+          "ability": [ "Static" ],
+          "heldItem": [ "pixelmon:item.ZoomLens" ],
+          "nature": [ "Modest" ],
+          "evSpAtk": 252,
+          "evSpeed": 252,
+          "evHP": 4
+        }
+      ]
+    },
+    {
+      "name": "Ampharos",
+      "sets": [
+        {
+          "move1": [ "Cotton Guard" ],
+          "move2": [ "Thunder" ],
+          "move3": [ "Focus Blast" ],
+          "move4": [ "Power Gem" ],
+          "ability": [ "Static" ],
+          "heldItem": [ "pixelmon:item.ZoomLens" ],
+          "nature": [ "Modest" ],
+          "evSpAtk": 252,
+          "evDef": 252,
+          "evHP": 4
+        }
+      ]
+    },
+    {
+      "name": "Luxray",
+      "sets": [
+        {
+          "move1": [ "Thunder Fang" ],
+          "move2": [ "Crunch" ],
+          "move3": [ "Ice Fang" ],
+          "move4": [ "Superpower" ],
+          "ability": [ "Guts" ],
+          "heldItem": [ "pixelmon:item.FlameOrb" ],
+          "nature": [ "Adamant" ],
+          "evAtk": 252,
+          "evSpeed": 252,
+          "evHP": 4
+        }
+      ]
+    }
+  ]
+}

@@ -11,18 +11,22 @@
   },
   "textures": [
     {
-      "name": "shopgirl.png"
+      "name": "shoplady4.png"
     }
   ],
   "names": [
     {
-      "name": "Babs"
+      "name": "Suki"
     }
   ],
   "chat": [
     {
-      "hello": "Hola, bienvenido a la Poké Tienda. ¿Necesitas algo?",
-      "goodbye": "Adiós."
+      "hello": "Hola, ¿puedo ayudarte a encontrar tu equipamiento Pokémon? Tenemos algunas ofertas especiales.",
+      "goodbye": "Gracias por tus compras. Esperamos poder servirle de nuevo."
+    },
+    {
+      "hello": "Bienvenido a la Tienda Pokémon. ¿Buscas algo en especial?",
+      "goodbye": "¡Adiós! ¡Nos vemos pronto!"
     }
   ],
   /*
@@ -33,7 +37,7 @@
     rarity - optional field, from 0 - 1, if set the item set there will have a percentage chance of turning up at this shopkeeper. Refreshed every MC day.
     variation - optional field, true or false, if true the items price will vary between 0.9 and 1.1 times the default price. Defaults as True
   */
-  "items": [
+ "items": [
     {
       "name": "pixelmon:item.Poke_Ball",
       "multi": 1.2

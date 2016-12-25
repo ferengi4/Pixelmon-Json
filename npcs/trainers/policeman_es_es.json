@@ -48,15 +48,15 @@
         {
             "opening": "¿Me estás provocando, ciudadano?",
             "win": "¡La ley triunfa!",
-            "lose": "¡No te vas a salir con la tuya!"
+            "lose": "¡No te saldrás con la tuya!"
         },
         {
-            "opening": "¡Aw vamos! ¡Estaba en un caso!",
+            "opening": "¡Aw venga! ¡Estaba en un caso!",
             "win": "¿Dónde están mis esposas?",
             "lose": "Buen trabajo, chaval. Te daré un donut."
         },
         {
-            "opening": "¡Ouch! ¡Oye ahora, esto irá directo a tu registro!",
+            "opening": "¡Ouch! ¡Oye, esto irá directo a tu registro!",
             "win": "Espero que te sirva de lección."
             "lose": "Solicito refuerzos, por favor necesito respuesta."
         }

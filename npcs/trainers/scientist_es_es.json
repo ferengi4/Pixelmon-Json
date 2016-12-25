@@ -122,7 +122,7 @@
             "name": "Riff"
         },
         {
-            "name": "Theodore \"Seis Ojos\""
+            "name": "Teodoro \"Seis Ojos\""
         },
         {
             "name": "Cornelius"
@@ -130,19 +130,19 @@
     ],
 	"chat": [
         {
-            "opening": "¡Mediante una minuciosa investigación he encontrado el equipo perfecto!",
+            "opening": "¡Tras una minuciosa investigación he encontrado al equipo perfecto!",
             "win": "¡Ciencia! Funciona.",
-            "lose": "Dejame revisar mis apuntes..."
+            "lose": "Déjame revisar mis apuntes..."
         },
         {
-            "opening": "Mi objetivo principal aquí es simplemente observar.",
+            "opening": "Mi principal objetivo aquí es simplemente observar.",
             "win": "¡Aunque la victoria era un objetivo secundario!",
-            "lose": "Oh... eso fue difícil de ver."
+            "lose": "Oh... eso fue complicado de ver."
         },
         {
             "opening": "¡Mi hipótesis es que estoy apunto de derrotarte!",
             "win": "Hipótesis confirmada.",
-            "lose": "Para eso sirven estas pruebas."
+            "lose": "Para esto sirven las pruebas."
         }
     ]
 }

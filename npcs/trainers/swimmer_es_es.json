@@ -143,12 +143,12 @@
     "chat": [
         {
             "opening": "¡Vamos a probar mis nuevos Pokémon de tipo Agua!",
-            "win": "¡Mis nuevos Pokémon de tipo Agua son geniales!",
+            "win": "¡Mis nuevos Pokémon de tipo Agua son increibles!",
             "lose": "¡Tengo que entrenar más a mis nuevos Pokémon!"
         },
         {
             "opening": "¡Nado cuando yo quiero!",
-            "win": "¡Nadar te hace más fuerte, como yo!",
+            "win": "¡Nadar te hace más fuerte, como a mí!",
             "lose": "¡Iré a nadar para olvidar mi derrota!"
         },
         {

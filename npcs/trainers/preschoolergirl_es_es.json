@@ -52,9 +52,9 @@
     ],
 	"chat": [
         {
-            "opening": "¡Voy ha hacer que mi Mamá y Papá estén orgullosos!",
-            "win": "¡Sii! ¡No puedo esperar a decirles que he ganado!",
-            "lose": "¡Buena partida! ¡Estarán orgullosos de que he sido una buena chica!"
+            "opening": "¡Voy ha hacer que mi Mamá y Papá se sientan orgullosos!",
+            "win": "¡Síí! ¡No puedo esperar a contarles que he ganado!",
+            "lose": "¡Buena partida! ¡Estarán orgullosos de haber sido una buena chica!"
         },
         {
             "opening": "¡Soy una chica mayor! ¡Te voy a ganar!",
@@ -62,8 +62,8 @@
             "lose": "Las chicas grandes... no lloran... las chicas grandes... (sollozo)"
         },
         {
-            "opening": "¡Nunca he perdido una batalla Pokémon!",
-            "win": "¡Sii! ¡Voy de uno en uno!",
+            "opening": "¡Nunca he perdido un combate Pokémon!",
+            "win": "¡Síí! ¡Voy de uno en uno!",
             "lose": "Esta ha sido mi primera batalla..."
         }
     ]

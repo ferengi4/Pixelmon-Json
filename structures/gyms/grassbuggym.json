@@ -1,0 +1,221 @@
+{
+  "npcs": [
+    {
+      "name": "grassbuggymintro",
+      "type": "chat",
+      "x": 18,
+      "y": 1,
+      "z": 1
+    },
+    {
+      "name": "grassbuggymbase",
+      "type": "trainer",
+      "tier": 3,
+      "rotation": 180,
+      "x": 16,
+      "y": 1,
+      "z": 7
+    },
+    {
+      "name": "grassbuggymbase",
+      "type": "trainer",
+      "tier": 2, 
+      "rotation": 180,
+      "x": 5,
+      "y": 1,
+      "z": 14
+    },
+    {
+      "name": "grassbuggymbase",
+      "type": "trainer",
+      "tier": 2, 
+      "rotation": 180,
+      "x": 28,
+      "y": 1,
+      "z": 13
+    },
+    {
+      "name": "grassbuggymbase",
+      "type": "trainer",
+      "tier": 1, 
+      "rotation": 90,
+      "x": 10,
+      "y": 1,
+      "z": 36
+    },
+    {
+      "name": "grassbuggymbase",
+      "type": "trainer",
+      "tier": 1, 
+      "rotation": 270,
+      "x": 23,
+      "y": 1,
+      "z": 36
+    },
+    {
+      "name": "grassbuggymleader",
+      "type": "trainer",
+      "tier": 0,
+      "rotation": 0,
+      "x": 17,
+      "y": 1,
+      "z": 16,
+      "drops": [ "pixelmon:item.MiracleSeed" ]
+    }
+  ],
+  "pokemon": [
+    {
+      "name": "Venomoth",
+      "sets": [
+        {
+          "move1": [ "Sleep Powder" ],
+          "move2": [ "Quiver Dance" ],
+          "move3": [ "Bug Buzz" ],
+          "move4": [ "Baton Pass", "Sludge Bomb" ],
+          "ability": [ "Tinted Lens" ],
+          "heldItem": [ "pixelmon:item.BlackSludge" ],
+          "nature": [ "Timid" ],
+          "evSpAtk": 252,
+          "evSpeed": 252,
+          "evSpDef": 4
+        }
+      ]
+    },
+    {
+      "name": "Scyther",
+      "sets": [
+        {
+          "move1": [ "Aerial Ace" ],
+          "move2": [ "U-Turn" ],
+          "move3": [ "Swords Dance" ],
+          "move4": [ "Knock Off", "Roost" ],
+          "ability": [ "Technician" ],
+          "heldItem": [ "pixelmon:item.Eviolite" ],
+          "nature": [ "Timid" ],
+          "evHP": 236,
+          "evSpeed": 252,
+          "evAtk": 20
+        }
+      ]
+    },
+    {
+      "name": "Scizor",
+      "sets": [
+        {
+          "move1": [ "Bullet Punch" ],
+          "move2": [ "Swords Dance" ],
+          "move3": [ "Bug Bite", "U-Turn" ],
+          "move4": [ "Defog", "Roost" ],
+          "ability": [ "Technician" ],
+          "heldItem": [ "pixelmon:item.Life_Orb" ],
+          "nature": [ "Adamant" ],
+          "evAtk": 252,
+          "evSpeed": 252,
+          "evSpDef": 4
+        }
+      ]
+    },
+    {
+      "name": "Volcarona",
+      "sets": [
+        {
+          "move1": [ "Fiery Dance" ],
+          "move2": [ "Bug Buzz" ],
+          "move3": [ "Giga Drain" ],
+          "move4": [ "Quiver Dance" ],
+          "ability": [ "Flame Body" ],
+          "heldItem": [ "pixelmon:item.LumBerry", "pixelmon:item.SitrusBerry" ],
+          "nature": [ "Timid" ],
+          "evSpAtk": 252,
+          "evSpeed": 252,
+          "evSpDef": 4
+        }
+      ]
+    },
+    {
+      "name": "Scolipede",
+      "sets": [
+        {
+          "move1": [ "Megahorn" ],
+          "move2": [ "Protect" ],
+          "move3": [ "Earthquake", "Aqua Tail" ],
+          "move4": [ "Poison Jab" ],
+          "ability": [ "Speed Boost" ],
+          "heldItem": [ "pixelmon:item.Life_Orb" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "evAtk": 252,
+          "evSpeed": 252,
+          "evHP": 4
+        }
+      ]
+    },
+    {
+      "name": "Shedinja",
+      "sets": [
+        {
+          "move1": [ "Swords Dance" ],
+          "move2": [ "X-Scissor" ],
+          "move3": [ "Shadow Sneak" ],
+          "move4": [ "Protect" ],
+          "ability": [ "Wonder Guard" ],
+          "heldItem": [ "pixelmon:item.FocusSash" ],
+          "nature": [ "Adamant" ],
+          "evAtk": 252,
+          "evSpeed": 252,
+          "evSpDef": 4
+        }
+      ]
+    },
+    {
+      "name": "Tangela",
+      "sets": [
+        {
+          "move1": [ "Leech Seed" ],
+          "move2": [ "Hidden Power Ice" ],
+          "move3": [ "Leaf Storm", "Knock Off" ],
+          "move4": [ "Sleep Powder" ],
+          "ability": [ "Regenerator" ],
+          "heldItem": [ "pixelmon:item.Eviolite" ],
+          "nature": [ "Modest" ],
+          "evHP": 252,
+          "evDef": 252,
+          "evSpeed": 4
+        }
+      ]
+    },
+    {
+      "name": "Cradily",
+      "sets": [
+        {
+          "move1": [ "Stealth Rock" ],
+          "move2": [ "Recover" ],
+          "move3": [ "Giga Drain" ],
+          "move4": [ "Rock Slide" ],
+          "ability": [ "Storm Drain" ],
+          "heldItem": [ "pixelmon:item.Leftovers" ],
+          "nature": [ "Sassy" ],
+          "evHP": 252,
+          "evDef": 4,
+          "evSpDef": 252
+        }
+      ]
+    },
+    {
+      "name": "Breloom",
+      "sets": [
+        {
+          "move1": [ "Spore" ],
+          "move2": [ "Swords Dance" ],
+          "move3": [ "Mach Punch" ],
+          "move4": [ "Bullet Seed", "Seed Bomb" ],
+          "ability": [ "Technician" ],
+          "heldItem": [ "pixelmon:item.FocusSash" ],
+          "nature": [ "Jolly" ],
+          "evAtk": 252,
+          "evSpeed": 252,
+          "evHP": 4
+        }
+      ]
+    }
+  ]
+}
