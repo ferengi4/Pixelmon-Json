@@ -21,8 +21,8 @@
   ],
   "chat": [
     {
-      "hello": "Bien venu à notre belle magasin. La qualité de ce Pokémart est insurpassable.",
-      "goodbye": "Je vous remercie pour le shopping à Pokémart."
+      "hello": "Bienvenue dans notre beau magasin. La qualité de ce Pokémart est insurpassable.",
+      "goodbye": "Je vous remercie de votre visite chez Pokémart."
     }
   ],
   /*
@@ -31,46 +31,97 @@
     name - reference to the name entry in shopItems.json.
     multi - optional field, defaults to 1, changes cost of buying that item by that multiplier.
     rarity - optional field, from 0 - 1, if set the item set there will have a percentage chance of turning up at this shopkeeper. Refreshed every MC day.
-    variation - optional field, true or false, if true the items price will vary between 0.9 and 1.1 times the default price. Defaults as True
   */
   "items": [
     {
-      "name": "TM9 - Venoshock",
-      "multi": 1.2
+      "name": "pixelmon:pokemail_air"
     },
     {
-      "name": "EnergyPowder",
-      "multi": 1.1
+      "name": "pixelmon:pokemail_bloom"
     },
     {
-      "name": "EnergyRoot",
-      "rarity": 0.3,
-      "multi": 1.1
+      "name": "pixelmon:pokemail_brick"
     },
     {
-      "name": "HealPowder",
-      "multi": 1.1
+      "name": "pixelmon:pokemail_bridged"
     },
     {
-      "name": "RevivalHerb",
-      "rarity": 0.3,
-      "multi": 1.1
+      "name": "pixelmon:pokemail_bridgem"
     },
     {
-      "name": "Fire Stone",
-      "multi": 1.1
-    }
+      "name": "pixelmon:pokemail_bridges"
+    },
     {
-      "name": "Leaf Stone",
-      "multi": 1.1
-    }
+      "name": "pixelmon:pokemail_bridgev"
+    },
     {
-      "name": "Thunder Stone",
-      "multi": 1.1
-    }
+      "name": "pixelmon:pokemail_bubble"
+    },
     {
-      "name": "Water Stone",
-      "multi": 1.1
+      "name": "pixelmon:pokemail_dream"
+    },
+    {
+      "name": "pixelmon:pokemail_fab"
+    },
+    {
+      "name": "pixelmon:pokemail_favored"
+    },
+    {
+      "name": "pixelmon:pokemail_flame"
+    },
+    {
+      "name": "pixelmon:pokemail_glitter"
+    },
+    {
+      "name": "pixelmon:pokemail_grass"
+    },
+    {
+      "name": "pixelmon:pokemail_greet"
+    },
+    {
+      "name": "pixelmon:pokemail_heart"
+    },
+    {
+      "name": "pixelmon:pokemail_inquiry"
+    },
+    {
+      "name": "pixelmon:pokemail_like"
+    },
+    {
+      "name": "pixelmon:pokemail_mech"
+    },
+    {
+      "name": "pixelmon:pokemail_mosaic"
+    },
+    {
+      "name": "pixelmon:pokemail_orange"
+    },
+    {
+      "name": "pixelmon:pokemail_reply"
+    },
+    {
+      "name": "pixelmon:pokemail_retro"
+    },
+    {
+      "name": "pixelmon:pokemail_rsvp"
+    },
+    {
+      "name": "pixelmon:pokemail_snow"
+    },
+    {
+      "name": "pixelmon:pokemail_space"
+    },
+    {
+      "name": "pixelmon:pokemail_steel"
+    },
+    {
+      "name": "pixelmon:pokemail_thanks"
+    },
+    {
+      "name": "pixelmon:pokemail_wave"
+    },
+    {
+      "name": "pixelmon:pokemail_wood"
     }
   ]
 }

@@ -57,7 +57,7 @@
         },
         {
             "opening": "¡Ouch! ¡Oye, esto irá directo a tu registro!",
-            "win": "Espero que te sirva de lección."
+            "win": "Espero que te sirva de lección.",
             "lose": "Solicito refuerzos, por favor necesito respuesta."
         }
     ]

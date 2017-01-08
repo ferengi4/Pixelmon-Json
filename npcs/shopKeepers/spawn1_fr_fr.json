@@ -21,7 +21,7 @@
   ],
   "chat": [
     {
-      "hello": "Vous y! Chasseur de Pokémon! J'ai des affaires precieux à vous offrir!",
+      "hello": "Vous là! Chasseur de Pokémon ! J'ai des affaires precieuces à vous offrir !",
       "goodbye": "Si vous êtes chanceux, vous me reverrez, chasseur de Pokémon."
     }
   ],
@@ -31,22 +31,51 @@
     name - reference to the name entry in shopItems.json.
     multi - optional field, defaults to 1, changes cost of buying that item by that multiplier.
     rarity - optional field, from 0 - 1, if set the item set there will have a percentage chance of turning up at this shopkeeper. Refreshed every MC day.
-    variation - optional field, true or false, if true the items price will vary between 0.9 and 1.1 times the default price. Defaults as True
   */
   "items": [
     {
-      "name": "Poke Ball",
-      "multi": 0.9
+      "name": "pixelmon:sun_stone",
+      "multi": 4.0,
+      "rarity": 0.2
     },
     {
-      "name": "Great Ball"
+      "name": "pixelmon:fire_stone",
+      "multi": 4.0,
+      "rarity": 0.2
     },
     {
-      "name": "Max Potion",
-      "multi": 1.1
+      "name": "pixelmon:water_stone",
+      "multi": 4.0,
+      "rarity": 0.2
     },
     {
-      "name": "Rare Candy",
+      "name": "pixelmon:moon_stone",
+      "multi": 4.0,
+      "rarity": 0.2
+    },
+    {
+      "name": "pixelmon:thunder_stone",
+      "multi": 4.0,
+      "rarity": 0.2
+    },
+    {
+      "name": "pixelmon:leaf_stone",
+      "multi": 4.0,
+      "rarity": 0.2
+    },
+    {
+      "name": "pixelmon:dawn_stone",
+      "multi": 4.0,
+      "rarity": 0.2
+    },
+    {
+      "name": "pixelmon:dusk_stone",
+      "multi": 4.0,
+      "rarity": 0.2
+    },
+    {
+      "name": "pixelmon:shiny_stone",
+      "multi": 4.0,
       "rarity": 0.2
     }
   ]
