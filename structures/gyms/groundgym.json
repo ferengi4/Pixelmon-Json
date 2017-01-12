@@ -88,7 +88,7 @@
       "x": 11,
       "y": 4,
       "z": 3, 
-      "drops": [ "pixelmon:TM26_-_Earthquake" ]
+      "drops": [ "pixelmon:tm26" ]
     }
   ],
   "pokemon": [
@@ -101,7 +101,7 @@
           "move2": [ "Iron Tail", "Fire Fang", "Stone Edge"],
           "move3": [ "Rock Slide", "Eartquake", "Thunder Fang" ],
           "move4": [ "Thunder Fang", "Fire Fang", "Pursuit" ],
-          "heldItem": [ "pixelmon:item.Choice_Scarf", "pixelmon:item.BlackGlasses" ],
+          "heldItem": [ "pixelmon:choice_scarf", "pixelmon:black_glasses" ],
 		  "nature": [ "Lonely", "Brave", "Adamant", "Naughty", "Timid" ]
         }
       ]
@@ -116,7 +116,7 @@
           "move2": [ "Iron Tail", "Fire Fang", "Stone Edge"],
           "move3": [ "Rock Slide", "Eartquake", "Thunder Fang" ],
           "move4": [ "Thunder Fang", "Fire Fang", "Pursuit" ],
-          "heldItem": [ "pixelmon:item.Choice_Scarf", "pixelmon:item.BlackGlasses", "pixelmon:item.ChopleBerry" ],
+          "heldItem": [ "pixelmon:choice_scarf", "pixelmon:black_glasses", "pixelmon:chople_berry" ],
 		  "nature": [ "Lonely", "Brave", "Adamant", "Naughty", "Timid" ]
         }
       ]
@@ -130,7 +130,7 @@
           "move2": [ "Iron Tail", "Fire Fang", "Stone Edge", "Low Sweep"],
           "move3": [ "Rock Slide", "Eartquake", "Thunder Fang", "Bulk up" ],
           "move4": [ "Thunder Fang", "Fire Fang", "Pursuit", "Superpower" ],
-          "heldItem": ["pixelmon:item.Choice_Scarf", "pixelmon:item.BlackGlasses", "pixelmon:item.FocusSash", "pixelmon:item.ChopleBerry" ],
+          "heldItem": ["pixelmon:choice_scarf", "pixelmon:black_glasses", "pixelmon:focus_sash", "pixelmon:chople_berry" ],
 		  "nature": [ "Lonely", "Brave", "Adamant", "Naughty", "Timid" ],
 		  "evAtk": 252,
 		  "evSpeed": 252
@@ -145,7 +145,7 @@
           "move2": [ "Substitute", "Taunt", "Rock Tomb", "Iron Tail"],
           "move3": [ "Protect", "Acrobatics", "Earthquake", "Sky Attack" ],
           "move4": [ "Toxic", "Tailwind", "Giga Impact", "Hyper Beam" ],
-          "heldItem": [ "pixelmon:item.Choice_Scarf", "pixelmon:item.Flying_Gem" ],
+          "heldItem": [ "pixelmon:choice_scarf", "pixelmon:flying_gem" ],
 		  "evSpeed": 252
         }
       ]
@@ -158,7 +158,7 @@
           "move2": [ "Fire Punch", "Double-Edge", "Thunder Punch" ],
           "move3": [ "Thunder Punch", "Swords Dance", "Rock Slide", "Bonemerang" ],
           "move4": [ "Detect", "Bonemerang", "Substitute", "Stealth Rock" ],
-          "heldItem": ["pixelmon:item.Choice_Scarf", "pixelmon:item.Thick Club" ],
+          "heldItem": ["pixelmon:choice_scarf", "pixelmon:thick_club" ],
 		  "evAtk": 252
 		  
         }
@@ -171,9 +171,9 @@
         {
           "move1": [ "Earthquake", "Crunch", "Venoshock", "Thunder", "Thunderbolt" ],
           "move2": [ "Taunt", "Sunny Day", "Rain Dance", "Shadow Ball"],
-          "move3": [ "Sludge wave", "Fire Blast", "Iron Tail", "Poison Jab" ],
-          "move4": [ "Flatter", "Focus Energy", "Double Kick", "MegaHorn" ],
-          "heldItem": ["pixelmon:item.Life_Orb", "pixelmon:item.BlackSludge" ]
+          "move3": [ "Sludge Wave", "Fire Blast", "Iron Tail", "Poison Jab" ],
+          "move4": [ "Flatter", "Focus Energy", "Double Kick", "megahorn" ],
+          "heldItem": ["pixelmon:life_orb", "pixelmon:black_sludge" ]
         }
       ]
     },
@@ -185,7 +185,7 @@
           "move2": [ "Ice Shard", "Thunder Fang","Fire Fang"],
           "move3": [ "Stealth Rock", "Magnitude", "Bounce" ],
           "move4": [ "Rapid Spin", "Endure", "Toxic", "Rest" ],
-          "heldItem": ["pixelmon:item.Life_Orb",  "pixelmon:item.Leftovers", "pixelmon:item.SoftSand", "pixelmon:item.Ground_Gem" ]
+          "heldItem": ["pixelmon:life_orb",  "pixelmon:leftovers", "pixelmon:soft_sand", "pixelmon:ground_gem" ]
         }
       ]
     },
@@ -197,15 +197,15 @@
           "move2": [ "Rock Smash", "Dig", "Toxic", "Lava Plume" ],
           "move3": [ "Fire Blast","Eruption", "Heat Wave" , "Roar" ],
           "move4": [ "Hyper Beam", "Overheat", "Protect" ],
-          "heldItem": [ "pixelmon:item.Ground_Gem", "pixelmon:item.Fire_Gem", "pixelmon:item.QuickClaw"  ],
+          "heldItem": [ "pixelmon:ground_gem", "pixelmon:fire_gem", "pixelmon:quick_claw"  ],
           "evHP": 248
         },
         {
           "move1": [ "Earthquake" ],
           "move2": [ "Sunny Day" ],
-          "move3": [ "Solar Beam" ],
+          "move3": [ "Solarbeam" ],
           "move4": [ "Fire Blast" ],
-          "heldItem": [ "pixelmon:item.Ground_Gem", "pixelmon:item.Fire_Gem", "pixelmon:item.QuickClaw"  ],
+          "heldItem": [ "pixelmon:ground_gem", "pixelmon:fire_gem", "pixelmon:quick_claw"  ],
           "evHP": 248
         }
       ]

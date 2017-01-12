@@ -51,7 +51,7 @@
       "x": 17,
       "y": 18,
       "z": 14,
-      "drops": [ "pixelmon:item.NeverMeltIce" ]
+      "drops": [ "pixelmon:never_melt_ice" ]
     }
   ],
   "pokemon": [
@@ -65,7 +65,7 @@
           "move3": [ "Aqua Ring" ],
           "move4": [ "Round" ],
           "ability": [ "Thick Fat" ],
-          "heldItem": [ "pixelmon:item.NeverMeltIce" ]
+          "heldItem": [ "pixelmon:never_melt_ice" ]
         }
       ]
     },
@@ -80,7 +80,7 @@
           "move3": [ "Stockpile" ],
           "move4": [ "Swallow", "Spit Up" ],
           "ability": [ "Thick Fat" ],
-          "heldItem": [ "pixelmon:item.Eviolite" ],
+          "heldItem": [ "pixelmon:eviolite" ],
           "nature": [ "Modest" ],
           "evHP": 252,
           "evSpDef": 252,
@@ -93,7 +93,7 @@
           "move3": [ "Aqua Ring" ],
           "move4": [ "Yawn" ],
           "ability": [ "Ice Body" ],
-          "heldItem": [ "pixelmon:item.MuscleBand", "pixelmon:item.Leftovers" ],
+          "heldItem": [ "pixelmon:muscle_band", "pixelmon:leftovers" ],
           "nature": [ "Calm", "Sassy" ],
           "evHP": 252,
           "evDef": 4,
@@ -111,7 +111,7 @@
           "move2": [ "Hail" ],
           "move3": [ "Aqua Ring" ],
           "move4": [ "Yawn" ],
-          "heldItem": [ "pixelmon:item.Leftovers" ],
+          "heldItem": [ "pixelmon:leftovers" ],
           "ability": [ "Ice Body" ],
           "nature": [ "Calm", "Sassy" ],
           "evHP": 252,
@@ -126,7 +126,7 @@
           "move3": [ "Hidden Power Ground", "Hidden Power Psychic" ],
           "move4": [ "Yawn", "Water Sport", "Taunt" ],
           "ability": [ "Thick Fat" ],
-          "heldItem": [ "pixelmon:item.Life_Orb", "pixelmon:item.Leftovers" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:leftovers" ],
           "nature": [ "Timid" ],
           "evSpAtk": 252,
           "evSpDef": 4,
@@ -159,7 +159,7 @@
           "move2": [ "Shell Smash" ],
           "move3": [ "Rock Blast" ],
           "move4": [ "Razor Shell" ],
-          "heldItem": [ "pixelmon:item.NeverMeltIce" ],
+          "heldItem": [ "pixelmon:never_melt_ice" ],
           "ability": [ "Skill Link" ],
           "nature": [ "Adamant" ],
           "evAtk": 252,
@@ -175,8 +175,8 @@
           "move1": [ "Body Slam" ],
           "move2": [ "Water Pulse" ],
           "move3": [ "Ice Shard" ],
-          "move4": [ "Hidden Power Earth" ],
-          "heldItem": [ "pixelmon:item.Leftovers" ],
+          "move4": [ "Hidden Power Ground" ],
+          "heldItem": [ "pixelmon:leftovers" ],
           "ability": [ "Water Absorb" ],
           "nature": [ "Relaxed" ],
           "evSpAtk": 252,
@@ -194,7 +194,7 @@
           "move2": [ "Ice Fang" ],
           "move3": [ "Iron Head" ],
           "move4": [ "Take Down" ],
-          "heldItem": [ "pixelmon:item.Life_Orb" ],
+          "heldItem": [ "pixelmon:life_orb" ],
           "ability": [ "Thick Fat" ],
           "nature": [ "Adamant", "Careful" ],
           "evAtk": 252,
@@ -211,7 +211,7 @@
           "move2": [ "Shadow Ball" ],
           "move3": [ "Hidden Power Psychic" ],
           "move4": [ "Water Pulse" ],
-          "heldItem": [ "pixelmon:item.FocusSash" ],
+          "heldItem": [ "pixelmon:focus_sash" ],
           "nature": [ "Modest" ],
           "evSpAtk": 252,
           "evSpDef": 4,

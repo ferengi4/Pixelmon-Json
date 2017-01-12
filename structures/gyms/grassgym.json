@@ -51,7 +51,7 @@
       "x": 15,
       "y": 12,
       "z": 4,
-      "drops": [ "pixelmon:item.MiracleSeed" ]
+      "drops": [ "pixelmon:miracle_seed" ]
     }
   ],
   "pokemon": [
@@ -67,7 +67,7 @@
           "move3": [ "Twister" ],
           "move4": [ "Round" ],
           "ability": [ "Overgrow" ], // Choose which Ability to use.
-          "heldItem": [ "pixelmon:item.MiracleSeed" ] // Single choice for held item.
+          "heldItem": [ "pixelmon:miracle_seed" ] // Single choice for held item.
           // Default, random Nature, no EVs. Makes it easier to face in battle.
           // Note: IVs are all 31 unless specified otherwise.
         }
@@ -84,7 +84,7 @@
           "move3": [ "Light Screen" ],
           "move4": [ "Glare", "Leech Seed", "Synthesis", "Toxic" ], // Multiple choices for a move; randomly choose one.
           // No Ability chosen. Can be any possible Ability (either Overgrow or Contrary in this case).
-          "heldItem": [ "pixelmon:item.LightClay" ],
+          "heldItem": [ "pixelmon:light_clay" ],
           "nature": [ "Bold" ],
           "evHP": 252, // Define any necessary EVs: evHP, evAtk, evDef, evSpAtk, evSpDef, evSpeed
           "evDef": 252,
@@ -98,7 +98,7 @@
           "move3": [ "Aqua Tail", "Iron Tail", "Return" ], // Pick any two of three. Don't choose the same move twice.
           "move4": [ "Aqua Tail", "Iron Tail", "Return" ], // Always set happiness to 255 for Return.
           "ability": [ "Overgrow" ],
-          "heldItem": [ "pixelmon:item.MuscleBand", "pixelmon:item.MiracleSeed" ],
+          "heldItem": [ "pixelmon:muscle_band", "pixelmon:miracle_seed" ],
           "nature": [ "Adamant", "Jolly" ], // Can be either of these two Natures.
           "evAtk": 252,
           "evSpDef": 4,
@@ -115,7 +115,7 @@
           "move2": [ "Leech Seed" ],
           "move3": [ "Substitute" ],
           "move4": [ "Synthesis" ],
-          "heldItem": [ "pixelmon:item.Leftovers" ],
+          "heldItem": [ "pixelmon:leftovers" ],
           "nature": [ "Bold" ],
           "evHP": 252,
           "evDef": 252,
@@ -128,7 +128,7 @@
           "move3": [ "Hidden Power Fire", "Hidden Power Rock" ], // Automatically set IVs for a maximum-power Hidden Power.
           "move4": [ "Glare", "Giga Drain", "Taunt" ],
           "ability": [ "Contrary" ],
-          "heldItem": [ "pixelmon:item.Life_Orb", "pixelmon:item.Grass_Gem", "pixelmon:item.Leftovers", "pixelmon:item.MiracleSeed" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:grass_gem", "pixelmon:leftovers", "pixelmon:miracle_seed" ],
           "nature": [ "Timid" ],
           "evSpAtk": 252,
           "evSpDef": 4,
@@ -143,8 +143,8 @@
         {
           "move1": [ "Acrobatics" ],
           "move2": [ "Sleep Powder" ],
-          "move3": [ "Seed Bomb", "U-turn" ], // Don't duplicate U-turn, but otherwise choose freely.
-          "move4": [ "Toxic", "Memento", "Stun Spore", "U-turn" ],
+          "move3": [ "Seed Bomb", "U-Turn" ], // Don't duplicate U-Turn, but otherwise choose freely.
+          "move4": [ "Toxic", "Memento", "Stun Spore", "U-Turn" ],
           // No held item.
           "nature": [ "Jolly" ],
           "evAtk": 252,
@@ -156,7 +156,7 @@
           "move2": [ "Sleep Powder" ],
           "move3": [ "Seed Bomb", "Stun Spore" ],
           "move4": [ "Rage Powder" ],
-          "heldItem": [ "pixelmon:item.FocusSash" ],
+          "heldItem": [ "pixelmon:focus_sash" ],
           "nature": [ "Jolly" ],
           "evAtk": 252,
           "evSpDef": 4,
@@ -174,7 +174,7 @@
           "move2": [ "Earthquake" ],
           "move3": [ "Stone Edge", "Rock Slide" ],
           "move4": [ "Stealth Rock" ],
-          "heldItem": [ "pixelmon:item.MiracleSeed", "pixelmon:item.Grass_Gem", "pixelmon:item.SoftSand", "pixelmon:item.Ground_Gem", "pixelmon:item.MuscleBand" ],
+          "heldItem": [ "pixelmon:miracle_seed", "pixelmon:grass_gem", "pixelmon:soft_sand", "pixelmon:ground_gem", "pixelmon:muscle_band" ],
           "nature": [ "Adamant" ],
           "evHP": 252,
           "evAtk": 252,
@@ -193,7 +193,7 @@
           "move2": [ "Psychic", "Psyshock" ],
           "move3": [ "Hidden Power Fire", "Hidden Power Ice", "Sleep Powder", "Giga Drain" ], // Pick 2, but don't duplicate Hidden Power.
           "move4": [ "Hidden Power Fire", "Hidden Power Ice", "Sleep Powder", "Giga Drain" ],
-          "heldItem": [ "pixelmon:item.Choice_Specs", "pixelmon:item.Life_Orb", "pixelmon:item.Grass_Gem", "pixelmon:item.WhiteHerb" ],
+          "heldItem": [ "pixelmon:choice_specs", "pixelmon:life_orb", "pixelmon:grass_gem", "pixelmon:white_herb" ],
           "nature": [ "Modest" ],
           "ability": [ "Chlorophyll" ],
           "evSpAtk": 252,
@@ -205,50 +205,13 @@
           "move2": [ "Psychic", "Psyshock" ],
           "move3": [ "Sleep Powder", "Giga Drain" ],
           "move4": [ "Trick Room" ],
-          "heldItem": [ "pixelmon:item.SitrusBerry" ],
+          "heldItem": [ "pixelmon:sitrus_berry" ],
           "nature": [ "Modest" ],
           "ability": [ "Harvest" ],
           "evHP": 252,
           "evSpAtk": 252,
           "evSpDef": 4,
           "ivSpeed": 0 // Set IV if it shouldn't be 31.
-        }
-      ]
-    },
-
-    // Note: Non-Grass types are used here for some edge cases that aren't found in Grass types.
-    {
-      "name": "Wobbuffet",
-      // No min or max level; can appear at any level.
-      "sets": [
-        {
-          "move1": [ "Counter" ],
-          "move2": [ "Mirror Coat" ],
-          "move3": [ "Destiny Bond", "Encore" ],
-          "move4": [ "Charm", "Safeguard", "Destiny Bond", "Encore" ],
-          "ability": [ "Shadow Tag" ],
-          "heldItem": [ "pixelmon:item.Leftovers", "pixelmon:item.CustapBerry" ],
-          "nature": [ "Bold", "Calm" ],
-          "evHP": 4,
-          "evDef": 252,
-          "evSpDef": 252
-        }
-      ]
-    },
-    {
-      // All Unown forms are the same in-battle, so no need to define form here; choose it randomly.
-      // Will need to define form when something like Wormadam is added.
-      "name": "Unown",
-      "maxLevel": 40,
-      "sets": [
-        {
-          // Only can have one move, so no other moveslots are present.
-          "move1": [ "Hidden Power Psychic", "Hidden Power Ice", "Hidden Power Fire" ],
-          "heldItem": [ "pixelmon:item.Choice_Specs", "pixelmon:item.Choice_Scarf", "pixelmon:item.FocusSash" ],
-          "nature": [ "Modest", "Timid" ],
-          "evSpAtk": 252,
-          "evSpDef": 4,
-          "evSpeed": 252
         }
       ]
     }

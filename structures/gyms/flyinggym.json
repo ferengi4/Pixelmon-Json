@@ -69,7 +69,7 @@
       "x": 16,
       "y": 27,
       "z": 21,
-      "drops": [ "pixelmon:item.SharpBeak" ]
+      "drops": [ "pixelmon:sharp_beak" ]
     }
   ],
   "pokemon": [
@@ -81,9 +81,9 @@
           "move1": [ "Fly" ],
           "move2": [ "Roost" ],
           "move3": [ "Steel Wing" ],
-          "move4": [ "U-turn" ],
+          "move4": [ "U-Turn" ],
           "ability": [ "Tangled Feet" ],
-          "heldItem": [ "pixelmon:item.Leftovers" ],
+          "heldItem": [ "pixelmon:leftovers" ],
           "nature": ["Jolly", "Adamant"],
           "evAtk": 252,
           "evSpeed": 252
@@ -100,7 +100,7 @@
           "move3": [ "Steel Wing" ],
           "move4": [ "Defog" ],
           "ability": [ "Tangled Feet" ],
-          "heldItem": [ "pixelmon:item.Leftovers" ],
+          "heldItem": [ "pixelmon:leftovers" ],
           "nature": ["Jolly", "Adamant"],
           "evAtk": 252,
           "evSpeed": 252
@@ -117,7 +117,7 @@
           "move3": [ "Pursuit" ],
           "move4": [ "Quick Attack" ],
           "ability": [ "Keen Eye" ],
-          "heldItem": [ "pixelmon:item.Leftovers" ],
+          "heldItem": [ "pixelmon:leftovers" ],
           "nature": ["Jolly", "Adamant"],
           "evAtk": 252,
           "evSpeed": 252
@@ -134,7 +134,7 @@
           "move3": [ "Pluck" ],
           "move4": [ "Whirlwind" ],
           "ability": [ "Keen Eye" ],
-          "heldItem": [ "pixelmon:item.Leftovers" ],
+          "heldItem": [ "pixelmon:leftovers" ],
           "nature": ["Jolly", "Adamant"],
           "evAtk": 252,
           "evSpeed": 252
@@ -147,11 +147,11 @@
       "sets": [
         {
           "move1": [ "Acrobatics", "Brave Bird" ],
-          "move2": [ "U-turn", "Toxic" ],
+          "move2": [ "U-Turn", "Toxic" ],
           "move3": [ "Defog", "Taunt" ],
           "move4": [ "Roost" ],
           "ability": [ "Infiltrator" ],
-          "heldItem": [ "pixelmon:item.BlackSludge" ],
+          "heldItem": [ "pixelmon:black_sludge" ],
           "nature": ["Jolly", "Adamant"],
           "evAtk": 252,
           "evSpeed": 252
@@ -168,7 +168,7 @@
           "move3": [ "Night Slash" ],
           "move4": [ "Stealth Rock" ],
           "ability": [ "Sturdy" ],
-          "heldItem": [ "pixelmon:item.Leftovers" ],
+          "heldItem": [ "pixelmon:leftovers" ],
           "nature": ["Impish", "Sassy"],
           "evDef": 252,
           "evSpDef": 252
@@ -186,7 +186,7 @@
           "move3": [ "Roost" ],
           "move4": [ "Brave Bird" ],
           "ability": [ "Defiant" ],
-          "heldItem": [ "pixelmon:item.Leftovers" ],
+          "heldItem": [ "pixelmon:leftovers" ],
           "nature": ["Jolly", "Adamant"],
           "evAtk": 252,
           "evSpeed": 252
@@ -203,7 +203,7 @@
           "move3": [ "Dragon Dance" ],
           "move4": [ "Protect" ],
           "ability": [ "Intimidate" ],
-          "heldItem": [ "pixelmon:item.Life_Orb" ],
+          "heldItem": [ "pixelmon:life_orb" ],
           "nature": ["Jolly", "Adamant"],
           "evAtk": 252,
           "evSpeed": 252
@@ -220,24 +220,9 @@
           "move3": [ "Knock Off" ],
           "move4": [ "Pursuit", "Quick Attack" ],
           "ability": [ "Early Bird" ],
-          "heldItem": [ "pixelmon:item.Life_Orb", "pixelmon:item.Choice_Band" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:choice_band" ],
           "nature": ["Jolly", "Adamant"],
           "evAtk": 252,
-          "evSpeed": 252
-        }
-      ]
-    },
-    {
-      "name": "Unown",
-      "maxLevel": 40,
-      "sets": [
-        {
-          // Only can have one move, so no other moveslots are present.
-          "move1": [ "Hidden Power Ice", "Hidden Power Electric" ],
-          "heldItem": [ "pixelmon:item.Choice_Specs", "pixelmon:item.Choice_Scarf", "pixelmon:item.FocusSash" ],
-          "nature": [ "Modest", "Timid" ],
-          "evSpAtk": 252,
-          "evSpDef": 4,
           "evSpeed": 252
         }
       ]

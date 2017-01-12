@@ -51,7 +51,7 @@
       "x": 44,
       "y": 3,
       "z": 15,
-      "drops": [ "pixelmon:item.NeverMeltIce" ]
+      "drops": [ "pixelmon:never_melt_ice" ]
     }
   ],
   "pokemon": [
@@ -64,7 +64,7 @@
           "move3": [ "Crush Claw", "Fake Out" ],
           "move4": [ "X-Scissor", "Poison Jab" ],
           "ability": [ "Pressure" ],
-          "heldItem": [ "pixelmon:item.King's_Rock" ],
+          "heldItem": [ "pixelmon:kings_rock" ],
           "nature": [ "Adamant", "Jolly" ],
           "evDef": 4,
           "evSpeed": 252,
@@ -82,7 +82,7 @@
           "move3": [ "Earthquake" ],
           "move4": [ "Endeavor" ],
           "ability": [ "Oblivious" ],
-          "heldItem": [ "pixelmon:item.FocusSash" ]
+          "heldItem": [ "pixelmon:focus_sash" ]
         }
       ]
     },
@@ -97,7 +97,7 @@
           "move3": [ "Earthquake" ],
           "move4": [ "Icicle Crash", "Toxic" ],
           "ability": [ "Thick Fat" ],
-          "heldItem": [ "pixelmon:item.Life_Orb" ],
+          "heldItem": [ "pixelmon:life_orb" ],
           "nature": [ "Adamant" ],
           "evHP": 252,
           "evAtk": 252,
@@ -111,7 +111,7 @@
           "move3": [ "Earthquake" ],
           "move4": [ "Icicle Crash", "Toxic" ],
           "ability": [ "Thick Fat" ],
-          "heldItem": [ "pixelmon:item.Eviolite" ],
+          "heldItem": [ "pixelmon:eviolite" ],
           "nature": [ "Adamant" ],
           "evHP": 248,
           "evAtk": 252,
@@ -128,7 +128,7 @@
           "move2": [ "Ice Fang" ],
           "move3": [ "Iron Head" ],
           "move4": [ "Take Down" ],
-          "heldItem": [ "pixelmon:item.Life_Orb" ],
+          "heldItem": [ "pixelmon:life_orb" ],
           "ability": [ "Thick Fat" ],
           "nature": [ "Adamant", "Careful" ],
           "evAtk": 252,
@@ -146,7 +146,7 @@
           "move3": [ "Hidden Power Psychic" ],
           "move4": [ "Water Pulse" ],
           "ability": [ "Ice Body" ],
-          "heldItem": [ "pixelmon:item.FocusSash" ],
+          "heldItem": [ "pixelmon:focus_sash" ],
           "nature": [ "Modest" ],
           "evSpAtk": 252,
           "evSpDef": 4,
@@ -163,7 +163,7 @@
           "move3": [ "Hail" ],
           "move4": [ "Recover" ],
           "ability": [ "Levitate" ],
-          "heldItem": [ "pixelmon:item.NeverMeltIce", "pixelmon:item.IcyRock" ],
+          "heldItem": [ "pixelmon:never_melt_ice", "pixelmon:icy_rock" ],
           "nature": [ "Timid", "Modest" ],
           "evHP": 196,
           "evDef": 4,
@@ -181,7 +181,7 @@
           "move3": [ "Psyshock" ],
           "move4": [ "Energy Ball" ],
           "ability": [ "Oblivious" ],
-          "heldItem": [ "pixelmon:item.Choice_Specs" ],
+          "heldItem": [ "pixelmon:choice_specs" ],
           "nature": [ "Timid" ],
           "evHP": 4,
           "evSpAtk": 552,
@@ -198,7 +198,7 @@
           "move3": [ "Icy Wind" ],
           "move4": [ "Destiny Bond" ],
           "ability": [ "Vital Spirit" ],
-          "heldItem": [ "pixelmon:item.FocusSash" ],
+          "heldItem": [ "pixelmon:focus_sash" ],
           "nature": [ "Timid" ],
           "evDef": 4,
           "evSpAtk": 252,

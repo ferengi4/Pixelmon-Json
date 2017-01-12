@@ -42,7 +42,7 @@
       "x": 44,
       "y": 2,
       "z": 11,
-      "drops": [ "pixelmon:item.BigRoot" ]
+      "drops": [ "pixelmon:big_root" ]
     }
   ],
   "pokemon": [
@@ -56,7 +56,7 @@
           "move3": [ "Giga Drain" ],
           "move4": [ "Sludge Bomb" ],
           "ability": [ "Chlorophyll" ],
-          "heldItem": [ "pixelmon:item.Eviolite" ],
+          "heldItem": [ "pixelmon:eviolite" ],
           "nature": ["Timid"],
           "evSpAtk": 240,
           "evSpeed": 240
@@ -74,7 +74,7 @@
           "move3": [ "Giga Drain" ],
           "move4": [ "Sludge Bomb" ],
           "ability": [ "Chlorophyll" ], 
-          "heldItem": [ "pixelmon:item.Eviolite" ], 
+          "heldItem": [ "pixelmon:eviolite" ], 
           "nature": ["Timid"],
           "evSpAtk": 240,
           "evSpeed": 240
@@ -91,7 +91,7 @@
           "move3": [ "Giga Drain" ],
           "move4": [ "Sludge Bomb" ],
           "ability": [ "Chlorophyll" ], 
-          "heldItem": [ "pixelmon:item.Eviolite" ],
+          "heldItem": [ "pixelmon:eviolite" ],
           "nature": ["Timid"],
           "evSpAtk": 240,
           "evSpeed": 240
@@ -102,7 +102,7 @@
           "move3": [ "Giga Drain" ],
           "move4": [ "Leech Seed" ],
           "ability": [ "Thick Fat" ],
-          "heldItem": [ "pixelmon:item.BigRoot" ],
+          "heldItem": [ "pixelmon:big_root" ],
           "nature": ["Timid"],
           "evSpDef": 252,
           "evDef": 252
@@ -120,7 +120,7 @@
           "move3": [ "Pursuit" ],
           "move4": [ "Agility" ],
           "ability": [ "Unburden" ],
-          "heldItem": [ "pixelmon:item.SitrusBerry" ],
+          "heldItem": [ "pixelmon:sitrus_berry" ],
           "nature": ["Timid"],
           "evSpAtk": 240,
           "evSpeed": 240
@@ -137,7 +137,7 @@
           "move3": [ "Leaf Blade" ],
           "move4": [ "Earthquake" ],
           "ability": [ "Unburden" ], 
-          "heldItem": [ "pixelmon:item.Flying_Gem" ], 
+          "heldItem": [ "pixelmon:flying_gem" ], 
           "nature": ["Adamant"],
           "evAtk": 252,
           "evSpeed": 252
@@ -154,7 +154,7 @@
           "move3": [ "Bullet Seed" ],
           "move4": [ "Spore", "Stone Edge" ],
           "ability": [ "Technician" ], 
-          "heldItem": [ "pixelmon:item.Life_Orb" ],
+          "heldItem": [ "pixelmon:life_orb" ],
           "nature": ["Jolly", "Adamant"],
           "evAtk": 252,
           "evSpeed": 252,
@@ -172,7 +172,7 @@
           "move3": [ "Dark Pulse" ],
           "move4": [ "Nature Power" ],
           "ability": [ "Early Bird" ], 
-          "heldItem": [ "pixelmon:item.Life_Orb" ],
+          "heldItem": [ "pixelmon:life_orb" ],
           "nature": ["Rash"],
           "evAtk": 88,
           "evSpAtk": 244,
@@ -190,25 +190,11 @@
           "move3": [ "Synthesis" ],
           "move4": [ "Hidden Power Fire" ],
           "ability": [ "Regenerator" ],
-          "heldItem": [ "pixelmon:item.Eviolite" ],
+          "heldItem": [ "pixelmon:eviolite" ],
           "nature": ["Bold"],
           "evHP": 252,
           "evDef": 252,
           "evSpeed": 4
-        }
-      ]
-    },
-    {
-      "name": "Unown",
-      "maxLevel": 40,
-      "sets": [
-        {
-          "move1": [ "Hidden Power Psychic", "Hidden Power Ice", "Hidden Power Fire" ],
-          "heldItem": [ "pixelmon:item.Choice_Specs", "pixelmon:item.Choice_Scarf", "pixelmon:item.FocusSash" ],
-          "nature": [ "Modest", "Timid" ],
-          "evSpAtk": 252,
-          "evSpDef": 4,
-          "evSpeed": 252
         }
       ]
     }
